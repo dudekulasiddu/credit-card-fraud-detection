@@ -1,0 +1,1001 @@
+TransactionID,Date,Amount,Merchant,Category,Location,CardType,IsFraud
+4685c4e2-2052-497b-845d-71e43f448888,2025-02-18 09:55:32,745.43,"Reed, Booth and Hill",Travel,West Amyhaven,Visa,0
+fd6ba6db-850f-4fb1-8cf2-dcc7ae7b5f29,2025-03-19 22:58:56,662.21,Chapman-Long,Clothing,Port Bradleybury,Visa,0
+377a1cf7-af24-44da-be68-20c689549814,2025-03-24 06:52:00,973.75,Smith Inc,Clothing,Ritterland,Amex,0
+ad0a80ba-9d25-478c-b553-81463f282e70,2025-04-02 07:18:51,545.93,"Ho, Garcia and Mccoy",Travel,Kempview,Visa,0
+cae38511-2f76-4e77-adfd-c453ed7e435d,2025-03-07 22:32:11,488.06,Meyer-Crawford,Travel,Markville,MasterCard,0
+6d2ba9c1-d715-432a-88df-a7aec33cae24,2025-03-02 21:33:39,676.69,Lopez-Cross,Tech,Roweside,MasterCard,0
+de42b77f-b121-4b40-9b39-f5715e32b12e,2025-04-04 00:51:52,959.34,"Thornton, Foster and Pope",Clothing,Matthewsberg,Amex,1
+78f7d2eb-0853-419e-8330-6f374f48580a,2025-02-24 18:23:42,498.54,"Gates, Johnson and Jones",Entertainment,Port Ninafort,Amex,0
+d8d2ec98-bd79-463b-a6c2-f5c1dbf83b63,2025-02-07 09:17:50,175.91,Thompson-Jenkins,Entertainment,Margarethaven,MasterCard,0
+d71ffb35-0669-41fe-8f45-c41a3a862185,2025-01-10 05:32:32,32.54,"Reed, Becker and Stewart",Entertainment,Lake Scottfurt,Visa,0
+1e1dc55e-8bef-418d-9104-258d2d16eda8,2025-03-06 22:20:24,449.46,"Ferguson, Villa and Daniel",Health,East Joanport,Amex,0
+4fabf67f-9bf4-4b31-a3a7-d6536143bd4e,2025-02-24 08:11:51,346.68,"Roberson, Fischer and Peterson",Health,Jamesburgh,MasterCard,0
+033dfe63-4d0f-4254-86ae-a2616346b721,2025-02-16 18:07:19,576.22,Mccarthy-Riley,Clothing,Lake Robert,MasterCard,0
+f123d225-d00b-40f5-a509-c570e1d30aa4,2025-03-06 09:51:55,835.08,Suarez PLC,Clothing,Lisabury,Visa,0
+aa465f49-426f-4276-8a5f-2af04517fd09,2025-01-26 18:25:22,584.59,Evans-Young,Health,Johnsonview,Amex,0
+a1441c0e-3d90-4120-bc3d-2477ecc4c07c,2025-03-01 14:11:39,636.98,"Carlson, Patterson and Tucker",Health,Sandraton,MasterCard,0
+db84afd1-3184-4d09-8500-df944b5f5c9b,2025-01-04 18:19:40,53.35,Salazar-Harrison,Entertainment,Port Kathleenshire,MasterCard,0
+b94c57ef-44d6-4932-b9d2-2719bf90cd82,2025-03-25 22:19:37,490.36,Delacruz-Garrison,Health,Adambury,MasterCard,0
+188fd934-d355-4c3b-a993-d7e9a3e00f63,2025-03-01 15:04:30,941.53,"Hall, Willis and Murray",Tech,Gardnerville,Visa,0
+7d037e73-2b0d-43d5-a31b-7713a8c67336,2025-02-28 05:09:27,196.35,"Allen, Dickerson and Butler",Food,Nortonmouth,Visa,1
+bc582870-47a7-46c6-b0fb-0fbea2731099,2025-03-26 03:31:08,351.75,Wilson-Lutz,Entertainment,East Christopherchester,Visa,0
+8122b5bd-a09c-4408-b5cb-5ceb2a3dd573,2025-01-13 01:20:19,934.36,Gutierrez-Swanson,Entertainment,Port Danielmouth,Amex,0
+a3765fdc-87fb-48a3-b13f-a689c9ce230c,2025-02-13 22:34:02,309.11,Martin PLC,Travel,Smithburgh,Amex,0
+ce7fbbd2-3b7b-4cf0-a4d5-b7e8d5ec809a,2025-03-31 03:37:31,544.1,Lopez LLC,Travel,West Abigail,Amex,1
+337357e1-93ae-45fa-b59a-113239b1b030,2025-03-02 08:13:06,300.67,Neal LLC,Food,Morenoborough,Amex,1
+b788cbbc-e30e-44f3-ad3b-85cc140d4598,2025-02-14 05:32:00,486.5,Castaneda-Adams,Food,Higginshaven,Amex,0
+bf949368-52aa-4c12-8c57-93a71d061242,2025-01-06 12:53:49,661.6,Herman Inc,Travel,Nelsonside,Visa,0
+386615a8-eb8c-4e00-93db-9b55c6794b63,2025-01-27 12:26:50,531.6,Francis Group,Health,Jonesbury,Amex,0
+7d7a1076-ff89-438a-a014-27000085d290,2025-01-29 10:27:31,408.64,"Campbell, Kelly and Klein",Food,Lake Mariahaven,Visa,1
+e04c96e3-e325-41bb-be2f-abf467465bda,2025-02-24 01:48:03,99.92,"Willis, Parks and Ferguson",Clothing,Mckinneyshire,Amex,0
+90dd1cef-05ee-42a1-8519-873472dd0d6b,2025-03-27 15:06:25,738.95,"Harvey, Yoder and Saunders",Food,Hollandfurt,Visa,0
+9139dc28-1405-48a3-bf61-eeb62107e23a,2025-03-29 19:11:31,747.27,Davis-Hernandez,Tech,Michealmouth,Visa,0
+e8d2396b-90aa-4697-8230-1e2b368d27b1,2025-01-10 02:32:34,143.97,Torres PLC,Clothing,Lake Gregoryhaven,Amex,0
+4b8351e1-b150-4786-9261-8a13a2364ec0,2025-01-25 08:25:29,621.41,Chandler Group,Health,South Timothystad,Amex,0
+a9c3ebb0-476b-43d6-a441-a479c66da90c,2025-02-09 02:44:09,64.7,Thornton-Perkins,Food,Lake Roy,Visa,0
+6fef0aa0-1e94-4953-9e13-441cffdcbf86,2025-02-17 00:19:38,292.57,Barrera-Mcfarland,Entertainment,Shieldsberg,MasterCard,0
+f8966527-5158-4632-adfd-79141bcdd3d7,2025-02-01 05:08:50,774.59,Johnson LLC,Health,North David,Visa,0
+e448e232-d670-4baf-bb59-abf84947a2bd,2025-01-04 17:55:21,109.29,Peck-Bean,Clothing,North Melinda,MasterCard,0
+9fcad3e0-ebce-4489-941b-665008b16bbb,2025-02-16 12:42:24,262.9,Jones-Hogan,Clothing,New Jesse,Amex,0
+132167f6-717c-4d15-8065-3b7364867a6f,2025-01-15 07:51:17,380.62,Ford-Flores,Entertainment,South Richard,Visa,1
+62d87217-83bd-44b5-81f3-580eaa2fc06c,2025-02-15 05:19:49,997.17,Harris-Woods,Clothing,Laurenfort,MasterCard,0
+601e493d-2c78-4810-bc62-736f38866984,2025-02-26 22:17:05,980.84,"Alvarez, Hudson and Spencer",Clothing,Archerside,Amex,0
+a5d2f6b9-1a4e-43b7-9a0d-f06424b28848,2025-02-28 19:01:20,54.64,Shelton LLC,Clothing,Lake Mistyhaven,Visa,1
+2e829d4d-9760-4dc7-ba72-1267158ab4a7,2025-01-13 02:39:20,579.6,Richardson-Russell,Health,Fosterville,Visa,0
+9b5a9e7e-ae1c-43ba-8eea-190c70b39898,2025-03-13 23:27:41,442.6,Brown-Williams,Food,New Tyler,Visa,0
+bbd42810-9fee-4e60-bac2-1aae4505e10c,2025-01-29 19:29:08,912.54,"Edwards, Perry and Phillips",Food,Gomezmouth,Amex,0
+fa6d9d3c-e2cb-4be9-99f5-a217d8c771bc,2025-03-09 05:32:51,489.51,Johnson-Fowler,Clothing,Dorisview,MasterCard,0
+08d942bb-f28a-4362-bfc2-9b28f3c9c05f,2025-01-19 15:46:24,941.12,Scott Group,Clothing,Port Judy,Visa,0
+7303cf91-ed46-4b92-a9b6-2929cae02ba7,2025-02-01 22:33:35,422.74,"Shelton, Perez and Kane",Food,New Beth,MasterCard,0
+bceb3579-9e7f-4f4f-9589-b71e38b1ea13,2025-03-30 02:29:23,506.45,"Taylor, Chapman and Orr",Travel,Glassshire,Visa,0
+29ea0c19-7bd9-4e88-86d7-eb90d1647eab,2025-02-26 02:58:15,74.19,Bryant-Hill,Tech,Charlesmouth,Amex,0
+342f2368-ca0b-41fd-9804-1a46d1a33264,2025-03-05 05:26:09,45.25,Delgado-Avila,Entertainment,Port David,Amex,1
+59afa917-4836-4afb-8b21-e457f43adbeb,2025-02-26 13:37:19,799.51,Rivera and Sons,Entertainment,Davisland,Visa,0
+d0866318-4d32-4457-a93a-02b88ace5826,2025-01-14 05:15:56,134.96,Gallagher LLC,Tech,Gailborough,MasterCard,0
+bda3faf4-4bb3-4289-b010-182b2278352b,2025-03-25 21:41:40,494.81,Morton-Smith,Travel,East Jacquelinetown,Visa,0
+971d596c-ca4f-4e9f-8a2e-abb9601dad03,2025-02-14 06:52:24,648.39,"Stuart, Rodriguez and Roberts",Health,Brandonberg,Amex,0
+8897de6c-597f-47a8-8542-95e7023ad93e,2025-03-13 01:23:56,163.08,Stephenson-Wood,Entertainment,South Joshuaton,Amex,0
+9e190244-4079-422b-90fe-0d46eaa35c18,2025-02-14 16:12:32,36.86,Jones Ltd,Food,New Melodyside,Visa,0
+547fde96-b7ba-4742-94f4-66ca85ec1e91,2025-02-28 21:03:59,86.53,"Howard, Robinson and Kelly",Travel,South Andrewmouth,Visa,0
+e11e2a09-ff7b-472c-b05e-b814a5768a7b,2025-04-03 05:31:26,588.2,Everett-Miller,Tech,Carrollport,MasterCard,0
+510b879b-d13b-4351-bf20-cc6309cbf983,2025-01-20 20:02:16,698.44,Greene and Sons,Travel,Jamesmouth,MasterCard,0
+8bc830b5-d233-4641-b826-cd1ed0fb55fd,2025-01-23 11:34:24,449.39,Williams Ltd,Health,Deannaberg,Amex,1
+130fca32-3357-4b76-9b93-0443fcfab02c,2025-03-14 00:05:34,342.98,"Duncan, Caldwell and Gray",Travel,New Patriciaberg,Amex,0
+f1f72b1d-eb95-4f74-97dc-8245e0f655b3,2025-03-05 08:44:37,763.35,Tucker-Davis,Travel,New Justinhaven,MasterCard,0
+085da7c7-0d84-4e38-8307-14acfa0fd2c8,2025-03-23 11:01:15,479.19,Scott Inc,Clothing,Brownmouth,MasterCard,0
+7278cc9d-8f5b-4c18-b9f0-5b5ce9bda0e8,2025-03-10 15:10:59,888.2,Case-Fox,Clothing,Millerborough,MasterCard,0
+5cdbcc09-700c-4783-9ae5-af701b69fe4e,2025-03-19 19:48:40,778.64,Esparza Group,Tech,Heatherfurt,Visa,0
+263096e3-a9f1-478e-8b60-1d75583c1e1f,2025-03-17 20:08:28,90.96,"Hall, Martinez and Kramer",Clothing,Victoriaburgh,Amex,0
+65dfdeda-39b2-4fce-ab20-41e3d2818bf8,2025-03-25 05:27:36,376.82,Anderson Inc,Clothing,New Christinemouth,MasterCard,0
+75e9bcab-6433-4e1e-a0b8-350ee82e684a,2025-02-13 02:35:59,123.51,Brown PLC,Food,Singhmouth,MasterCard,0
+8371c00a-a960-43c3-8cad-9a1a9d6fbb72,2025-02-11 08:29:35,368.47,Swanson-Jones,Health,Debraberg,MasterCard,0
+13018248-130e-4783-beea-d9926cada620,2025-03-17 07:50:17,596.53,"Watson, Allen and Ramirez",Health,North Debraville,Visa,0
+eae01f77-0f95-4c09-a30a-e8a0fb2ee5db,2025-02-10 03:06:23,953.05,Wilson-Lawrence,Clothing,Nicholaschester,Amex,1
+9da01346-2ae8-4bc6-8aee-059d4945f709,2025-02-03 01:48:35,804.31,"Baker, Jenkins and Peterson",Entertainment,Port Scottmouth,Amex,0
+3bc6d425-ee2a-49f2-902d-f99bd4ff0bcc,2025-02-11 18:36:19,865.63,Hudson-Jones,Clothing,East Brianmouth,MasterCard,0
+201c7a5e-66a1-46cf-9d0e-5acb1c1c461f,2025-02-09 19:47:35,947.0,"Manning, Rivas and Moyer",Food,East Jeffrey,Amex,0
+b6a6aef5-3cae-434e-bd04-8cc7fc80c221,2025-01-13 10:30:28,851.31,Thomas Ltd,Travel,Simmonsside,Visa,0
+4531670b-ce82-4f8f-a3a5-3a29aa26a046,2025-02-28 11:13:26,842.76,"Clarke, Matthews and Johnson",Health,Guerrerochester,MasterCard,0
+f0087a04-adbe-467a-8cee-803412e31bd3,2025-01-17 09:35:35,484.71,Miller Ltd,Entertainment,West Bruce,Amex,0
+e9528284-9cf7-4b7f-8a79-17d51d36d363,2025-02-28 21:23:20,311.11,Wright-Mayer,Tech,Ericville,Visa,0
+2961f4c2-9f7c-4c54-9097-f7238f8fd3f5,2025-01-13 18:18:35,918.02,"Olson, Jones and Dorsey",Clothing,Lake Loriport,MasterCard,0
+15173e9d-c220-47d3-bc19-1e38ad64c411,2025-02-04 02:52:34,22.75,Hill-Ware,Travel,East Josephtown,Visa,0
+95fe0c5c-d960-4a26-afa5-0f7369c429fa,2025-02-14 09:55:31,158.25,King Ltd,Health,West David,Visa,0
+504529be-29f9-4029-950b-5a2c59c1964c,2025-03-04 08:34:36,286.13,Andrews-Mckenzie,Food,South Thomas,Visa,0
+9d020e12-52c1-40c0-aae1-4ad1227b1d9b,2025-03-17 17:47:59,807.41,Deleon Group,Health,Port Christina,Amex,0
+5614a63b-cbe0-46d6-91e1-eb32bede1025,2025-03-29 21:00:33,235.1,"Day, Anderson and Hayes",Tech,North Erinville,Visa,0
+a1346c5a-68d5-4359-99b5-18fea048e36c,2025-02-06 07:32:15,847.65,Hernandez-Parker,Health,Robertside,MasterCard,0
+6ca4f943-57f1-4637-8f2a-611390c58d7b,2025-01-04 17:55:27,272.44,Larson Inc,Travel,Brianshire,Amex,0
+00f12771-f7ab-4ead-8e55-94f9eef1aedd,2025-02-09 11:55:19,829.13,Walker Ltd,Entertainment,Lake Katie,Amex,0
+6905fb40-ca98-4ed6-acdd-868e0eb4a7e9,2025-01-30 07:24:43,158.59,"Barton, Rogers and Oliver",Health,Barretthaven,Amex,0
+55a49096-6313-4e80-b0e1-2f417729a3eb,2025-01-01 09:18:37,769.19,Keller Inc,Entertainment,Port Steven,Amex,1
+c00c54fc-46dd-400d-bd72-c14993c20daa,2025-03-27 23:52:34,998.9,Brown-Johnson,Clothing,Thomastown,Visa,0
+52bb9aa2-32c8-4205-ba88-4d58801ef734,2025-02-01 16:21:38,250.28,"Jennings, Evans and Williams",Food,Arroyotown,MasterCard,0
+5e53d1d5-e274-489c-ab1d-32ded8c55084,2025-04-01 18:19:20,269.13,"Hernandez, Lambert and Brown",Tech,Christopherhaven,Visa,0
+adda48a4-7293-40ac-89d4-b08c83005f03,2025-02-05 23:21:05,26.89,"Cooper, Francis and Goodman",Tech,Lisabury,MasterCard,0
+83dc6f5e-67b9-4a45-9e30-789ce392afaf,2025-01-09 08:08:07,696.61,"Reilly, Luna and Wilkins",Clothing,Kerriburgh,Visa,0
+75a919a0-6ad9-4c8a-b843-2b8707811d46,2025-02-06 12:40:18,870.65,Rogers-Martin,Travel,Port Ryanside,Amex,0
+315424e3-b940-4bb3-9081-ae32bfa3b68e,2025-01-18 13:22:40,133.18,Green Group,Health,Scottmouth,Amex,0
+799a3c77-28b9-4648-b184-b8bdd7096412,2025-03-22 09:16:15,566.75,Parker and Sons,Clothing,Port Brittany,Visa,0
+6d3b08d9-94aa-4c97-8d36-aa02d7137a90,2025-02-24 20:27:01,606.6,Chen and Sons,Health,West Danielstad,Visa,0
+5658bcac-48c9-4989-a74b-9144639dbcc5,2025-02-13 16:03:46,470.54,Wheeler-Colon,Clothing,Port Josephhaven,MasterCard,0
+18cf0774-1dbf-47ba-8f76-bf5dac454973,2025-03-09 22:57:53,458.83,Allen Inc,Health,Rachelview,Visa,0
+970b77c5-f4f6-419f-8679-ae0cfe695744,2025-01-31 22:42:18,237.5,"Turner, Wood and Hernandez",Clothing,Larrymouth,Visa,0
+a2cfeaf6-1779-4f88-a302-bccfc4e31e57,2025-01-24 19:48:40,34.54,Lee-Myers,Health,East Cynthiaton,Amex,0
+b25e9bf1-d622-4953-89e3-dafe9396ead6,2025-03-03 18:49:05,432.42,Williams-Conway,Entertainment,East Erin,Amex,1
+b6f13412-f94b-4de6-9a62-b888e5c6ab8b,2025-02-27 04:38:23,248.26,Perkins Inc,Travel,Zavalabury,Visa,0
+8d310be2-30ce-4c77-a95b-0370e714dcf5,2025-02-20 03:48:15,951.22,King-Miller,Travel,Kevinmouth,MasterCard,0
+d0dc21c2-3b21-4e32-859e-36b00b6a815b,2025-02-12 23:49:30,522.23,Mills-Murray,Entertainment,Samuelfurt,MasterCard,0
+bcafb111-0ffa-4a3f-a34c-04924e1045c7,2025-01-03 03:30:38,61.49,"Crawford, Simpson and Hill",Travel,East Amandachester,Visa,0
+4728037f-4287-439e-bdf5-812996130435,2025-02-19 23:18:20,294.15,Sanford-Gibson,Food,Webbborough,Visa,0
+f7194682-6600-4332-a1ef-2679f41965ee,2025-04-05 19:27:39,35.76,"Sanchez, Hart and Grant",Food,Suttonport,Visa,0
+4a6d1d06-24b0-44c6-9dfc-11ca9edab6cb,2025-03-21 14:49:47,352.29,Kennedy LLC,Health,New Samuel,Amex,0
+43f186d4-7b9f-4804-ad98-5c1c2cc8853a,2025-04-01 06:10:30,643.11,"Neal, Green and Huynh",Tech,Kristinaburgh,MasterCard,0
+98ef1838-d9cf-4911-a950-59ac4f854f90,2025-03-26 14:42:34,21.84,Clark Ltd,Travel,Harrisville,Visa,0
+dbb496eb-3ec8-4b98-90ca-137a5fbf8922,2025-03-25 07:42:17,779.39,Hart and Sons,Entertainment,New Brianburgh,Amex,1
+15c07c8e-b74b-4c94-9eca-ea06f0fa32a4,2025-02-28 12:50:11,673.69,Ball-Ramos,Entertainment,New Angelafort,Visa,0
+018850c5-2755-4ac1-8a51-29bdaa6d2c5f,2025-01-01 07:17:42,383.59,"Garrett, Sanders and Lyons",Clothing,Waltersmouth,Visa,0
+d2a3cec5-1cff-46b4-b001-dbe230e54964,2025-03-22 05:16:03,607.46,Fitzgerald-Hickman,Travel,West Catherine,Visa,0
+94c33e09-8e39-49d6-acad-40e669c22e27,2025-02-14 15:29:33,214.74,Moran-Harris,Clothing,Lake Tanya,MasterCard,0
+b3f9e18b-be26-4e8e-8163-93a85decf966,2025-02-26 05:46:20,922.3,Li Inc,Travel,Moniqueshire,Visa,0
+0caa65c5-bd10-4a0b-a234-084630a8f0d0,2025-03-29 20:10:48,827.16,"Guerrero, Frank and Cowan",Health,East Anna,MasterCard,0
+e49262b3-e1d3-4e58-a7d2-d448a3f62d41,2025-01-25 07:07:43,607.05,"Washington, Baker and Huang",Travel,Campbellland,Amex,0
+c7e5fd5e-c408-4c1b-ac6d-4f608048b894,2025-02-28 19:16:09,463.17,Murphy Ltd,Food,Martinton,MasterCard,0
+a77188ee-8379-428b-a2a7-1f7b29cfa90d,2025-01-20 09:56:06,927.4,Schaefer PLC,Entertainment,Peterport,Visa,0
+69b5fd95-5b32-438a-89c2-229a4c5fdc12,2025-02-21 02:06:10,629.63,Moreno-Barnett,Health,West Williammouth,MasterCard,0
+878ba24b-e839-44c7-a623-a723b8f75e3e,2025-02-15 02:48:10,25.4,Williams-Guerrero,Tech,Kimberlyport,MasterCard,0
+55bfe91e-142e-4422-9a81-1f1cac6625b7,2025-03-22 03:28:06,636.04,Tate Group,Travel,Rogersmouth,MasterCard,0
+80e5cbe8-0443-49fd-ad77-adbd2a841b82,2025-04-02 19:01:03,838.84,"Arnold, Rodriguez and Hogan",Travel,Fishertown,Amex,1
+a5adaab9-1718-4f3a-b48d-c61c1ed20231,2025-03-12 21:55:09,190.64,"Krause, Rios and White",Tech,Port Kimberly,MasterCard,0
+c691422d-1a33-4498-8c3d-2368a7f2488d,2025-01-11 14:59:53,459.39,Jones-Boyle,Travel,North Susanburgh,Visa,0
+4cec9aa6-4c42-4cde-8384-ee390eb351b6,2025-01-27 22:16:14,785.97,"Hughes, Bryant and Robinson",Health,West Michael,Amex,0
+7b09c3b9-6f77-4cbe-ad72-562d142e2b40,2025-02-24 09:16:40,756.92,Allen and Sons,Tech,Andrewmouth,Visa,0
+971f722c-898e-494d-a859-9a7caa8381ac,2025-01-03 19:26:56,311.44,Martinez LLC,Food,Mcdonaldville,Amex,0
+b319c2ef-c4a7-41cb-9327-a7ab94e0c260,2025-03-09 22:52:26,897.31,Washington-Potter,Entertainment,Jeffreyshire,MasterCard,0
+cfd6a19c-e4f1-4421-bdd9-ef063ee1cc96,2025-01-02 09:24:14,79.89,Franco Inc,Clothing,East Harry,Amex,0
+28c90bce-ebb6-49a3-a904-2b9a0345a154,2025-03-23 06:52:17,262.51,"Smith, Garcia and Bennett",Travel,Lake Derek,Amex,0
+40ca1aa1-71de-40fb-934b-c924e1df1860,2025-01-08 16:30:30,727.52,Johnson-Sandoval,Entertainment,Jacquelineberg,Amex,0
+ff08516d-0e3e-4320-a225-2ff9866236bf,2025-01-23 14:05:11,467.94,Maxwell-Zimmerman,Health,West Kurtmouth,Visa,0
+383b91d9-d0da-418c-9221-72c41cf44ff9,2025-02-28 14:28:54,449.15,"Foley, Rhodes and Hughes",Food,Christineside,Visa,0
+36cf9bfb-544f-4b1e-a34c-53ae4973ac98,2025-01-19 08:46:50,762.84,Norris LLC,Health,Kennethtown,Visa,0
+fbe976e5-3320-43c9-9d06-6b24ed9fa699,2025-02-03 06:34:04,734.8,Lamb and Sons,Health,Christianhaven,MasterCard,0
+ed9ff638-c2a1-4241-bf7d-602a9fa72ba6,2025-04-05 19:03:28,897.93,Winters Group,Clothing,South Gregoryshire,MasterCard,0
+fcd148ba-2030-4ea4-a90e-9f85eafe71b5,2025-02-12 23:05:20,722.72,Reynolds LLC,Clothing,Shannonfort,Amex,0
+1a31b249-6100-4ee0-b707-9b864d2bbafa,2025-02-09 20:32:55,884.35,Young-Wolf,Health,Maynardburgh,MasterCard,0
+f90318a4-f75d-47e9-9114-d79fba636f90,2025-01-19 23:19:53,273.66,Hanson-Trujillo,Clothing,Jackhaven,Visa,0
+86cf5c1e-c225-4745-9837-436489f4d425,2025-03-29 17:53:23,133.37,"Turner, Harris and Campbell",Tech,Carriemouth,MasterCard,1
+131af13f-7f53-4fd9-9c8b-47831ac02ee0,2025-03-07 05:35:09,974.25,Harris-Bishop,Tech,Patelmouth,MasterCard,1
+5c534dd8-8431-4243-929c-30e772ce072a,2025-01-05 09:57:49,638.23,Vasquez-Hall,Clothing,Janetland,Visa,0
+817edbb2-2c72-43e9-8559-509439b7dc1e,2025-03-06 18:33:22,127.46,Sullivan-Brown,Food,Aaronport,Visa,0
+33b234db-2421-462c-bb5c-000c6178e192,2025-02-18 13:09:30,771.1,Middleton-Harrison,Entertainment,South Michaelburgh,Amex,0
+cf2a293f-4d23-4e9a-93dd-1d93e67ff6ed,2025-03-02 15:26:20,366.41,Stokes LLC,Clothing,Cameronborough,Visa,0
+028a361e-077d-41cf-881e-7ad6595ca36e,2025-02-21 09:12:36,413.89,Johnson-Clark,Entertainment,Port Sara,MasterCard,0
+49bd2d48-95d2-4801-afaa-4a1465350ea0,2025-03-06 16:31:19,465.57,Baldwin Group,Travel,Henrychester,MasterCard,0
+7aab6226-fa4a-4aa2-b79f-75e7826583a3,2025-01-25 22:06:17,219.42,"Parsons, Ayala and Burch",Health,South Michael,Amex,0
+b918561d-acf8-4f39-ba11-10fcac4405a8,2025-02-28 15:00:36,338.16,"Foster, Turner and Pitts",Clothing,East Wendyberg,MasterCard,0
+37ac9e30-d865-496c-9ea1-74554a5c203f,2025-03-24 01:41:41,592.63,Riddle-Farrell,Health,East Katie,Visa,1
+ee0451f6-161b-4107-bcd3-4b750b9015ba,2025-02-27 14:14:22,296.08,"Greene, Olson and Ramirez",Tech,West Racheltown,Amex,1
+bd21a6d3-5754-4880-abb2-45b83e0c9387,2025-01-17 22:33:42,442.77,Keller-Garrison,Travel,Oliverport,MasterCard,0
+6049efb0-4edd-4470-aa21-3519cf8b0bc0,2025-01-07 16:41:07,155.37,"Blackwell, Carter and Atkinson",Clothing,Port Sarah,Amex,0
+2274f7c4-e997-4181-8e29-b4aef2bd8088,2025-02-26 13:05:14,63.22,Long-Robinson,Tech,New Jessica,Amex,0
+2d9dbe8f-746c-425e-b45f-60a02866935d,2025-02-13 03:40:12,681.17,Bailey-Osborn,Tech,North Rebeccamouth,Amex,0
+143fa652-0493-442b-956e-2dca5409caee,2025-01-19 15:54:27,928.95,Gilbert-Oneal,Travel,Robbinsland,Visa,1
+d93479ef-07e6-4b03-b9fb-c1aec148b220,2025-01-23 16:47:24,495.83,"Jones, Kennedy and Howard",Food,East Scott,Visa,0
+da5cd21b-c7e2-4f79-be5c-b00c95bd15a9,2025-01-16 23:08:03,440.3,French-Fisher,Clothing,Janetville,MasterCard,0
+1cc7d1f7-fc25-4e8b-80cc-4b0b12c8c67c,2025-02-09 21:35:09,298.14,"Hall, Jacobs and Rogers",Food,Michaelmouth,Amex,0
+a43a6a08-24af-4577-ade2-14d11d6c1c73,2025-01-13 11:34:06,265.19,"Sims, Cole and Moyer",Food,Angelahaven,MasterCard,0
+e9fbea1b-7073-4708-871c-6025156400e1,2025-03-14 04:26:09,876.38,Martinez-Orr,Entertainment,East Annaville,Amex,0
+dc397058-aa1e-4379-8f20-27e4f5073540,2025-03-07 14:03:34,263.48,Oneal Group,Health,Port Krista,MasterCard,0
+ec1ec877-6e81-4c47-8a1a-97c7866c4547,2025-02-15 12:20:11,183.1,Smith and Sons,Tech,Travisbury,Visa,0
+164cb972-7ac4-42fe-8678-797519f2617d,2025-01-31 10:11:55,282.07,Hall and Sons,Health,Laurahaven,Amex,0
+abfb4419-c3c4-4124-9b3d-9f35870cbbd0,2025-02-16 03:32:05,371.33,"Ward, Carr and Cortez",Clothing,Cruzfort,Visa,0
+d4423bf9-4f30-4820-b275-107c464acdff,2025-02-25 15:27:16,331.55,"Moreno, Williams and Krause",Clothing,Hoffmanmouth,MasterCard,0
+05c0aeb3-f40d-4717-9469-122798294806,2025-01-24 13:54:29,611.66,Hendricks-Reed,Food,Wadefurt,MasterCard,0
+21903d5e-102f-4565-8cc4-fec064122142,2025-01-11 04:58:12,690.6,Taylor-Roy,Entertainment,Hernandezmouth,MasterCard,0
+2148e885-44f8-4370-970a-43ed74d25c2b,2025-03-30 08:05:48,276.97,Allen Inc,Clothing,West Kelsey,MasterCard,0
+05c7ccd8-c742-468d-8dfc-dfbc367140c9,2025-01-12 15:08:36,385.81,Velez-Montgomery,Health,Blackbury,Visa,0
+ee704359-eea0-499b-b2a7-7feec37fe62b,2025-02-17 15:00:03,430.48,Adams Ltd,Travel,West Debra,Amex,0
+3b402bc4-8218-4445-a574-7bef8e19343b,2025-03-10 16:32:39,74.43,Hunter and Sons,Travel,North Kaylaville,Visa,1
+095fe69c-3838-49aa-8ba3-87968dfadc8a,2025-02-26 22:49:47,331.35,Barrera-Mooney,Entertainment,Josephfort,MasterCard,0
+7592097d-ec78-4c84-8bb3-e476c277050a,2025-02-17 01:12:47,344.41,Wright Inc,Entertainment,Goodside,Amex,0
+97614315-b380-472c-9a49-bc0ac7eec770,2025-01-09 22:10:51,613.96,"Castillo, Love and Smith",Entertainment,Danielborough,Amex,0
+ad0fb90b-001e-4c7d-92d5-1c79d25c85fd,2025-01-24 03:38:23,179.39,"Williams, Brooks and Brown",Travel,Marcusshire,Visa,0
+ff439b05-ccb2-4d98-b758-50fea28c57e4,2025-01-09 16:52:28,446.04,Berger PLC,Food,West Brittanychester,MasterCard,0
+9492f17e-fd9a-4e70-bf73-efdacf9f925e,2025-01-19 16:04:37,288.5,Murray-Sims,Health,West Tammy,Amex,0
+3ace9566-dd4c-41ce-98a4-0247851d0de3,2025-02-07 03:14:29,628.63,Conley Ltd,Health,South Heather,Amex,0
+38654700-6302-4cdf-b842-ee2cd517ae58,2025-03-30 20:23:14,253.17,"Gomez, Johnson and Shannon",Travel,West Paulahaven,MasterCard,1
+9d6b2c68-cd7c-4c53-9db2-d192d6942b9f,2025-02-05 19:00:15,182.31,"Jones, Gonzalez and Rivera",Health,Branchborough,MasterCard,0
+f7c48b91-6f5d-428f-87a7-d648ce4d604f,2025-01-30 05:42:50,813.34,Terrell Inc,Entertainment,Kevinton,MasterCard,1
+7f49d91f-bd86-4258-beac-6c509ca389ff,2025-01-05 01:49:09,169.47,Powell-Case,Health,East Christopherhaven,Visa,0
+ce65ead0-8636-4b17-b4d5-f0ec42f1903c,2025-02-04 17:38:14,120.44,Bowen PLC,Health,New Joseph,Amex,0
+69165dd7-bf82-4554-96ad-2f3c26b9d5d9,2025-03-01 12:24:38,324.28,"Davis, Oliver and Merritt",Tech,Mooreland,Visa,0
+e381b4bf-2634-4f72-bf4f-67a8b2caf6c1,2025-01-03 01:05:17,941.54,"Roberts, Fowler and Mason",Travel,East Caleb,MasterCard,0
+921b8017-a22c-4dad-b1be-d6d5bfdc75c7,2025-02-17 11:04:58,299.26,"Burns, Smith and Adams",Health,South Lindsey,Amex,0
+074a76e6-8a19-4180-a717-1f1059c22cf8,2025-01-03 10:43:15,563.95,Thomas-Gutierrez,Food,New Shelbyside,Visa,1
+f6d1fb44-cec2-4cc2-ad34-4cf7cbda65b7,2025-01-12 20:55:22,500.36,Dickerson-Pacheco,Clothing,Wallacefort,Amex,1
+755363ab-4f7f-4ff5-a932-ecae6b845791,2025-03-01 19:58:23,568.21,Perez-Hernandez,Tech,Lake Ashleyfurt,Visa,0
+56f077cb-4c00-40c2-844b-59083fb57b82,2025-01-29 20:50:48,662.47,Davis-Gallagher,Tech,New Jeffrey,Amex,0
+0a1a5881-cbda-4bf4-a031-639a1d492f02,2025-03-18 16:39:05,597.55,"Henderson, Watts and Ellis",Food,West Josefurt,Visa,0
+1269e84e-6c99-4268-8b13-495250debec0,2025-01-23 15:09:39,650.23,Lopez and Sons,Health,Reedborough,MasterCard,0
+6d14b8c7-e5e3-46ea-b1c4-095d169afd2e,2025-01-22 17:39:45,237.03,Castro-Phillips,Tech,North Christopherbury,MasterCard,0
+ba135969-d4e9-4945-b77a-aa70d18a462a,2025-02-23 04:53:06,255.47,Wheeler-Ramirez,Entertainment,Lake Carrieberg,MasterCard,0
+fe209a45-1e28-4cb3-8b4e-7d76cf930e4b,2025-03-23 08:23:38,192.4,Hall LLC,Health,West Elijahmouth,MasterCard,0
+482ec91e-7b24-4a79-924e-d7731deecdfc,2025-01-07 07:07:49,915.34,Reeves LLC,Tech,Deckerborough,Amex,0
+ddf47d53-b4d2-4e24-99ab-6fd1d8d34f8e,2025-03-20 19:54:17,318.86,Johnson-Bruce,Clothing,South Fredview,Amex,0
+1cd59005-92f2-40d1-8039-ce9901290d2e,2025-03-27 03:05:19,46.2,"Herrera, Dickerson and Lindsey",Food,North Kelsey,Amex,0
+19c47ee9-25bd-4d69-970b-b9307ff9286c,2025-03-08 04:26:43,354.56,Barry and Sons,Food,North Brian,Amex,1
+81102ca3-05b5-40ab-b56c-a3f7f6927e36,2025-01-17 14:44:04,141.04,Miller Ltd,Tech,New Jeffrey,MasterCard,0
+e9b13476-0b40-4da1-b061-55e75a14657a,2025-04-02 09:22:44,552.97,"Davila, Evans and Weaver",Clothing,New Shanechester,Visa,0
+8628591f-915e-403d-9e53-5779fba22c52,2025-01-03 19:37:28,235.57,Conrad-Braun,Health,Stewartland,Visa,0
+5b4ee17c-d400-4c33-ae72-777e5fc4c4be,2025-03-15 01:17:14,845.53,Pace-Simon,Travel,North Carlos,Visa,0
+9509be1d-d7a2-4a10-bfae-ababcb1dcbeb,2025-02-07 18:02:52,455.52,Mccarthy Ltd,Health,Paulville,MasterCard,0
+963a4a60-b4b9-48fb-9426-58a696b7d002,2025-03-01 04:58:52,126.05,Rodgers Group,Travel,South Donald,Amex,0
+ecfe8d7b-e283-4889-81af-d5be5eee3c79,2025-03-07 18:31:31,266.26,"Robinson, Robertson and Williams",Entertainment,West Kevin,Amex,0
+a99d1a88-5d95-4400-b9bc-b7fba34668ac,2025-03-25 23:33:58,954.65,Williamson-Brown,Tech,Jonesport,MasterCard,0
+40bd876e-0c1e-4355-816c-9c1c9c05dfd9,2025-02-19 15:53:46,445.25,Brown-Norris,Tech,North Paul,MasterCard,0
+999989ab-efa5-456c-b51b-db156f8c1e9c,2025-03-28 15:04:12,439.71,Smith Group,Clothing,Lake Andrea,Amex,0
+dc663fed-84b4-46c4-a947-bd41f96f49a4,2025-03-04 14:13:44,904.93,Brown-Martinez,Health,Huffland,Amex,0
+efdf2077-126f-4d61-8b87-fb8644f0a2c6,2025-02-02 20:27:05,383.47,Walker LLC,Health,Rogersside,Visa,0
+cc3a004c-1b95-4284-9a42-8c2f17a4355e,2025-03-23 10:23:43,529.93,"Kramer, Nelson and Greene",Clothing,East Paul,MasterCard,0
+de40d874-9c96-427e-b4e4-b65ede27551e,2025-03-21 13:59:14,753.72,Fletcher and Sons,Clothing,Deannafort,Amex,0
+e2b17b04-bdb5-400f-8c0e-71755175ec3b,2025-02-11 17:50:04,330.54,"Wilson, Gross and Prince",Clothing,North Michelletown,Amex,0
+333aee0b-b3ac-45e3-9082-69e0cb493a91,2025-03-23 11:56:17,75.01,Barnes LLC,Entertainment,Steeleshire,Amex,0
+52a5fb71-9e64-4a67-b7a1-a90ed1811440,2025-01-25 08:07:38,928.84,Eaton-Holt,Travel,Millerside,Visa,1
+5004a02f-e563-4eba-a337-b7b3065c915c,2025-01-01 23:36:22,690.18,Richards-Lowe,Entertainment,Hendrixmouth,MasterCard,0
+fec49a32-b531-4813-b2af-8f9b47601fdc,2025-01-13 18:27:11,92.67,Ramirez Group,Health,East Anthonyburgh,Visa,0
+6783693e-9bb8-4770-8a8e-c94a9d483703,2025-03-28 02:14:15,747.77,Nelson and Sons,Health,New Kristintown,Amex,0
+d7dae4eb-95df-48b6-981b-e4f0e99cd7da,2025-03-01 15:15:13,661.4,Nguyen-Navarro,Food,Petersonside,Visa,0
+f879d5f4-1e50-40a8-b697-806dcd5cf1f6,2025-01-01 07:38:58,508.16,Williams-Jackson,Tech,East Jamesville,Visa,0
+d2b9f51e-bf3f-4092-a764-22aba6e034db,2025-02-16 23:15:07,695.26,Hines and Sons,Clothing,Port Terriburgh,Amex,1
+894161fb-90f5-43f4-a7cf-b990adb753dd,2025-03-09 08:32:57,949.43,Crawford-Mejia,Entertainment,Williamton,Amex,0
+1c91450c-0dff-4520-9b34-391bc5f3fd70,2025-02-13 07:59:48,851.49,Mitchell LLC,Food,Juliashire,Amex,0
+7a4ceda4-c545-45d3-a2d5-36fde9bb3edd,2025-03-04 23:17:27,677.36,Collins Group,Health,Elizabethfurt,MasterCard,1
+12dc2e09-74f2-4886-9620-58bb06106eb9,2025-03-26 11:34:52,631.53,Bowen-Smith,Travel,South Kylestad,Visa,0
+869ca23a-7668-449c-bc54-31bc3ee7c285,2025-03-15 10:47:57,869.83,Kaiser Group,Clothing,Melissahaven,Visa,0
+ac92e72c-e608-4148-9a8d-59b7f605e77d,2025-03-18 11:03:45,165.37,Becker Ltd,Health,West Dannystad,MasterCard,0
+e238076d-e9cc-406c-a695-7d535eac67b3,2025-03-08 08:44:03,79.57,Simmons LLC,Travel,Goldentown,Amex,0
+daca6eb3-08f2-4cfa-bc5f-2e467c691086,2025-02-12 02:20:14,237.07,Hughes-Castro,Entertainment,West Gloria,Visa,0
+5f32c0ec-c271-48eb-a551-996bd153d74a,2025-01-09 09:10:50,638.54,"Guerrero, Davies and Meyer",Food,South Adamstad,Visa,1
+f5e3035d-0b48-47a9-bab1-fe89ac9d6d7d,2025-03-07 11:34:55,157.9,"Fox, Fitzpatrick and Hernandez",Tech,East Margaret,Amex,0
+a0fac705-e6de-4c68-90b5-dc1853a9b8eb,2025-02-07 00:05:11,202.87,King Inc,Health,West Dariusborough,MasterCard,0
+8b917177-32ef-48f3-86ea-dc5a8a384d98,2025-01-15 06:01:56,304.57,Kennedy Group,Tech,Lewishaven,MasterCard,0
+490e6dc9-a646-4397-8404-bda6541d8f20,2025-02-12 05:29:23,671.78,Jones LLC,Tech,Jonathanbury,MasterCard,0
+8c12766f-38cf-46f6-9e86-312babd9915d,2025-03-22 00:10:07,562.09,"Campbell, Johnson and Tapia",Travel,New Veronicastad,Visa,0
+f994618b-d7c4-4719-aaae-ea7b44458283,2025-02-17 05:22:38,720.03,Rogers-Wood,Travel,Christophershire,Amex,0
+c6bd1402-eeff-461e-9ff7-e751bc1aabf6,2025-02-25 23:38:32,321.74,Ray LLC,Food,Vasquezton,Visa,0
+77d4f1f2-3480-4672-8519-ca2b569b3f2e,2025-04-03 12:54:07,46.24,"Lewis, Evans and Kerr",Travel,Tinabury,Amex,0
+cc0aa73b-98e4-4624-9794-231059563a58,2025-02-11 05:29:53,682.03,Soto-Miller,Health,Port Raymond,Visa,1
+e1200ecb-2409-4540-8e23-acc08b50cb7f,2025-02-26 09:43:38,923.57,Garrett Ltd,Entertainment,East Thomas,MasterCard,1
+5af98072-e986-479f-ac03-7a3c9d6ffada,2025-04-06 13:55:59,787.19,"Braun, Clayton and Garcia",Tech,Kelseyfort,Visa,0
+8965b6c0-c30d-48c6-9047-983bb6aa2b8a,2025-02-20 17:54:05,241.73,"Scott, Williams and Bradford",Health,North Eugenemouth,Amex,1
+b5cb55d1-a2cf-4095-aa79-c1054ce73419,2025-01-20 07:57:41,703.58,"Tate, Day and Harris",Food,Williambury,Visa,0
+5e1b1763-5549-4d4f-ad2e-39e54ca51cca,2025-03-15 21:56:19,598.45,"Waters, Vasquez and Green",Travel,Johnstonberg,MasterCard,1
+73c1f071-5bed-451b-8e28-a9dca3949d98,2025-02-01 04:45:46,600.81,Harris LLC,Food,Stevensberg,Amex,0
+c66c5d8a-235f-4afd-8396-6204eeb2fbd6,2025-03-13 04:32:46,818.56,Clark-Lynch,Tech,Lake Brianmouth,MasterCard,0
+e11cc18c-bad8-49c4-9b3a-b2f1369a37f8,2025-02-26 06:36:21,926.59,Perry-Thompson,Clothing,Morrisonchester,MasterCard,0
+d1607f27-c02c-4aef-b69c-c9a6760e600e,2025-02-02 06:12:01,464.49,"Barber, Hodge and Rodriguez",Health,Michaelborough,Amex,0
+bdc67f72-2402-4270-b657-a680b0e8787e,2025-03-24 06:09:20,615.19,"King, Ruiz and Holt",Tech,Johnside,Amex,0
+5755386f-9270-4b29-936e-1348fc255eae,2025-02-09 09:53:56,81.5,Powers-Mitchell,Tech,Andersonport,Visa,0
+4417f2b8-8d29-4470-98db-8fd12be2068c,2025-02-13 21:58:39,72.11,"White, Andrews and Turner",Tech,Lake Rickyfurt,MasterCard,0
+0fd44a65-8a1e-481e-8d1a-b82abff05af6,2025-03-04 14:29:50,268.18,Goodwin LLC,Tech,Birdfurt,MasterCard,0
+165a7fdb-568a-4e6f-b808-29b8d6da04fd,2025-01-04 23:09:16,595.45,Ortega PLC,Health,Jessicatown,MasterCard,0
+a4324d2c-c7e0-4659-95d2-753b938eecc3,2025-03-29 23:11:39,200.16,Johnson and Sons,Food,Lake Adamfort,Amex,0
+399d2191-f23f-4afc-810b-413ceaa5bcc5,2025-01-10 07:45:42,236.54,Kramer-Green,Food,West Michellechester,MasterCard,0
+34f0c085-bd48-4a63-ab9f-990c0b3acf38,2025-02-01 11:43:27,149.84,Gutierrez-Strong,Travel,South Mark,Visa,0
+9f890140-227d-4c4d-b988-95f0242825b9,2025-01-02 14:52:54,583.94,Ellis-Cook,Tech,Darylville,Amex,0
+60e67356-bb5d-45b3-b15c-ab94e3d70c86,2025-02-07 12:25:12,278.7,"Paul, Ward and Fleming",Entertainment,Gonzalesville,MasterCard,0
+69fbbc7a-00ce-4576-9e14-3dfc52d1aa19,2025-01-27 00:41:08,92.62,"Johnson, Wang and Willis",Tech,Austinstad,MasterCard,0
+548e165b-3611-42ec-930d-f7fa9a02d9f9,2025-01-27 09:54:59,290.92,"Shields, Cole and Stein",Clothing,Rebeccashire,Amex,0
+42fcd088-1f31-494a-ba60-857d41685a8d,2025-03-09 11:08:35,747.02,Allen-Martinez,Clothing,Berrybury,Visa,0
+b46da88b-85b0-4b25-8ada-6d1409f1642c,2025-02-11 09:58:24,374.05,Hunt and Sons,Health,North Philip,MasterCard,0
+7936fdf9-f132-4183-90dc-f37c8ec22ac7,2025-01-13 00:11:34,106.84,Williams-Decker,Food,Kimberlybury,MasterCard,1
+1f569a33-2813-42bd-a792-7b31ddc9cccd,2025-01-23 00:51:56,515.87,Jones Ltd,Health,Port Johnside,MasterCard,0
+88d2e7b0-5168-48bc-8ae7-c4eab8fa864c,2025-04-04 09:27:24,257.19,Vance Group,Clothing,Michaelbury,Visa,0
+36149716-9702-4602-97c4-3e87ec29b841,2025-01-22 01:02:40,436.24,Leach-Saunders,Clothing,Lauriefort,Amex,0
+010b320a-077e-4af6-8fc7-d9fe3534fd84,2025-03-25 11:31:20,650.89,"Pierce, Hamilton and Cox",Travel,South Kimberlyberg,MasterCard,0
+71aae0d0-09d0-41be-ab20-bda5093a32e0,2025-02-27 01:49:59,73.0,Ross Group,Entertainment,Maxwellmouth,Visa,0
+ef0d72bd-5dd2-423a-a805-5d49eca8f07a,2025-02-07 11:33:53,237.97,Jennings PLC,Health,Bowmanport,MasterCard,0
+2f3067b8-661f-4fd8-b92e-69b3dab8f7a0,2025-02-12 21:56:37,623.64,"Walker, Colon and Cole",Clothing,South Cynthiaport,Amex,0
+29674e2a-c8c6-40b3-8b08-8a7ba29ed5e1,2025-01-23 07:36:31,79.02,Smith Inc,Health,South Kathryn,Visa,0
+253f64ff-3d5d-432d-8332-d3b461dd2601,2025-03-25 12:31:28,894.9,Morse-Hickman,Food,New Yvonnetown,Visa,1
+a273fe90-32f2-4fd4-8730-350b574772da,2025-03-31 21:17:42,447.1,Foley-Jones,Clothing,New Christine,MasterCard,0
+8647ae26-a48f-4d20-a08c-4f38fd004c85,2025-03-19 20:54:41,303.21,"Hall, Howard and Carter",Entertainment,Robinsonshire,Amex,0
+ef743c60-64e5-4689-ab40-ca101d900052,2025-03-02 16:41:12,991.68,Hayes PLC,Entertainment,West Normaville,Visa,1
+7c4817cb-a690-41b8-b147-d3ba4c06f871,2025-02-06 03:34:44,416.43,Munoz-Martinez,Health,Churchberg,MasterCard,0
+d0696c47-22da-478c-821d-ef26e15df2eb,2025-03-29 14:30:05,964.4,Dawson-Robertson,Health,Careyhaven,Amex,0
+fc35a24e-98e9-4e1b-b1ec-b9266131f36d,2025-03-20 01:43:15,71.79,Ward-Crawford,Tech,South Jacob,MasterCard,0
+c4eda883-02d6-4b02-8c9b-dc19bca83031,2025-02-11 05:02:05,851.51,"Lloyd, Brooks and Rubio",Entertainment,Port Melissafurt,Amex,0
+da9a1b39-baaa-4535-b3dc-cc65f6d3f23e,2025-01-20 23:15:04,849.73,"Mclean, Kennedy and Lucero",Clothing,West Jamesfort,Visa,0
+69b8aef2-c289-4c78-8c8e-b1e9ac21903b,2025-02-07 13:05:53,114.77,Crane-Pugh,Health,East Christopher,Visa,1
+a0ef8eef-cd27-4ece-8055-1cdc2bb0e087,2025-02-19 04:03:32,784.59,Johnson Group,Health,Smithhaven,Visa,1
+da73e05c-d7ef-49f0-a7db-63f72c7bdef0,2025-01-28 09:26:24,754.0,Durham-Cruz,Travel,Cameronland,MasterCard,0
+33288db3-80ec-4640-9c56-85eb487aa4a5,2025-02-10 00:54:39,104.4,Hernandez Group,Travel,Wilsonport,Amex,0
+6fb85be9-b06d-4e1e-876c-37f06261cfcc,2025-01-16 19:57:41,330.47,"Lucas, Potter and Morgan",Entertainment,Lake Jerryfurt,MasterCard,0
+e3dc7f05-22dc-44d1-bc18-c3019b3d9c39,2025-01-16 13:03:13,997.27,Sanchez-Peck,Entertainment,Hortonmouth,MasterCard,0
+b9419f16-7604-4060-a3fa-c7695aa584c5,2025-03-18 07:22:17,662.28,Silva-Hall,Clothing,West Robertfort,Amex,0
+0eafaf56-c37c-4152-b881-d54d8f42502c,2025-01-07 01:04:05,543.65,Joseph-Marquez,Clothing,East Jim,MasterCard,0
+dd70ed75-bbc5-430c-997d-425abd2140e5,2025-03-12 09:59:47,333.11,"Montgomery, Smith and Collins",Health,North Annahaven,MasterCard,0
+13e7b76a-5a49-4adb-9295-895e34df19de,2025-01-13 18:26:13,2.69,Phillips-Luna,Health,New Ashley,Amex,0
+7f4722dd-5922-4a83-9398-7d42c9acb451,2025-02-24 19:00:47,281.02,"Rodriguez, Davis and Davis",Clothing,Michaelton,MasterCard,1
+505e3976-0063-4793-8ce3-086ea2711ad1,2025-03-23 03:02:19,121.54,Rogers Group,Tech,Jacquelineville,MasterCard,0
+efc97ce3-85b0-4d20-a4dc-d4e56b3df1bc,2025-01-08 01:13:49,918.13,"Suarez, Hurst and Baker",Health,Edwardview,Visa,1
+7b95ce7c-8fbc-41bd-82ab-f731c8c59ad9,2025-04-01 05:43:16,465.09,"Hall, Thomas and Perry",Health,West Bradley,Visa,0
+cf85b884-0b8c-431c-a44f-d672083ce02c,2025-02-13 15:03:05,684.74,Estes-Ramirez,Travel,Hoffmanmouth,Amex,1
+4f990762-7778-4c12-8576-4b2936016baf,2025-01-20 13:03:38,519.44,"Wood, Greer and Dennis",Clothing,New Shannon,MasterCard,0
+39cf9bdf-7dcc-4517-a5fb-e2c02978851c,2025-02-12 00:25:56,191.22,"Stevens, Garcia and Andrews",Food,Port Stacey,Amex,0
+87474d0e-f7a1-426e-b13b-241ba4dca84b,2025-02-15 12:00:17,320.0,Mathis-Best,Travel,Savagemouth,MasterCard,0
+4a538dda-f5e0-4751-b4b9-72ab88953ccc,2025-02-05 05:33:34,265.94,"Orozco, Johnson and Douglas",Travel,South Lukeport,Visa,0
+970c36ae-08ae-43cf-bdae-352e73d5da5c,2025-02-23 06:51:04,855.46,Patterson-Rodriguez,Food,Wandastad,MasterCard,0
+cd07398d-2c65-4c40-808b-5cfe36f300e8,2025-02-16 01:07:59,9.17,Walker-Love,Food,West Bryan,MasterCard,0
+bbafd97c-fc72-47f3-974b-f5917e4119c3,2025-01-25 14:31:13,361.54,Jackson PLC,Health,New April,MasterCard,0
+221746fa-1757-4298-ad32-a8b5ba38aba0,2025-01-13 16:40:13,340.84,Carlson-Lewis,Travel,Annstad,MasterCard,0
+9d0728d8-d6f5-4dda-9016-b8ec7cc09a4e,2025-02-26 08:44:17,300.45,Warren-Wilson,Food,East Michael,MasterCard,1
+44c9d495-30a3-4cdf-abfa-0e6d049c9025,2025-03-12 18:11:57,78.09,"Castillo, Krueger and Walker",Food,New Jennifer,Amex,0
+9c083f79-9721-4a6a-a088-e723d66ec87f,2025-01-18 22:06:52,529.89,Wilson PLC,Travel,Tammyberg,Amex,1
+a7202edb-bbdd-4043-957a-7286f191b71c,2025-03-05 17:58:57,503.36,"Franklin, Romero and Davis",Food,Mosesview,Visa,0
+398fcb30-0437-42ba-abd3-e0eac062e104,2025-03-02 09:50:28,38.57,Hughes-Griffith,Travel,Lake Jameshaven,MasterCard,0
+af6ce0c0-88ec-4b3d-b07e-c555be1c762f,2025-03-26 13:57:07,672.02,Martinez PLC,Travel,Lake Charlenefurt,MasterCard,0
+6f3c24e3-21af-41de-94b1-c4547d258f56,2025-03-25 12:50:49,917.55,"Maldonado, Adams and Lopez",Food,Ramirezland,MasterCard,0
+0044e90d-8508-4b52-82b0-913a74a75c26,2025-03-27 07:18:45,204.13,"Wheeler, Dawson and Bridges",Entertainment,Johnbury,Visa,0
+de208ce9-8f8f-4585-b277-8a16ea14f799,2025-01-08 16:14:44,968.24,"Santiago, Smith and Burns",Clothing,Smithchester,Visa,0
+07af0236-a681-48b5-84b7-03963ccfc62f,2025-01-14 12:07:35,594.49,Miller-Wallace,Clothing,Port Joshuaberg,MasterCard,0
+4c5d8a46-6d8e-480a-bf2a-8e04925a6493,2025-01-15 21:58:44,403.0,Waters-King,Travel,South Kimberlyton,Amex,0
+0bbf18fa-c11d-4882-9f8b-0824ff6538d4,2025-02-17 15:18:26,389.26,Ashley Inc,Travel,South Jacob,Amex,0
+203883ff-28cb-474e-8f1b-00105a0036cc,2025-03-14 12:59:55,261.52,Cross-Murphy,Tech,Michealchester,MasterCard,0
+ad923a4e-bad2-4a20-ae33-96c4d447f58a,2025-02-04 16:08:22,40.1,Gonzalez Inc,Entertainment,East Zacharymouth,MasterCard,0
+427b43d6-1311-457d-9a23-1cd2e00751ff,2025-01-04 20:24:38,746.06,Garcia Ltd,Health,Westhaven,Visa,0
+cae00f83-7d3d-4c36-bd0c-1e74741e3acb,2025-02-22 00:56:01,870.17,Thompson and Sons,Travel,West Eric,Amex,0
+2e26a2e4-259f-4324-b1f4-cd500f8f1b0c,2025-03-31 17:24:37,169.07,Young Inc,Travel,Maryport,Visa,0
+889018c0-d8d0-4e8d-8c9c-7b770256c603,2025-03-21 01:02:59,475.42,"Miles, Parker and Smith",Food,East Timothyshire,MasterCard,0
+cbcff1e6-ceff-4ff2-a364-2f655f77b32b,2025-01-09 12:08:17,709.13,"Cruz, Burton and Johnson",Food,Lake Sergiotown,MasterCard,0
+98e73c62-7bf2-4f14-9668-ca5e0e778b90,2025-01-29 23:15:41,565.66,Mckenzie-Stanley,Travel,Whiteheadton,MasterCard,0
+8b502795-b916-487b-a1b3-e37e6ff27876,2025-01-04 03:34:25,913.52,Chapman-White,Clothing,West Johnberg,MasterCard,0
+f57cb329-acd4-44c4-9b9a-e9b446cac77f,2025-01-30 10:30:07,778.53,"Robinson, Stone and Anderson",Food,East Susanchester,Amex,0
+5714e645-3fa9-4c84-b47c-922957ac700b,2025-02-12 20:39:59,998.15,York PLC,Travel,Averytown,Amex,0
+0ba46500-6b6b-4c1f-8670-594e100b1d32,2025-02-23 14:00:58,307.19,Carter-Mckinney,Health,Hernandezshire,Amex,0
+7e2367ff-0c70-4739-a9ff-7d59c8cb4766,2025-01-16 21:56:52,94.41,Rodriguez Group,Clothing,Port Krystalside,MasterCard,1
+5c95e9b3-4db6-431e-ae9f-3d2c477040b2,2025-03-05 11:38:44,447.3,"Garza, Cook and Peterson",Entertainment,Lynchshire,MasterCard,0
+630fb766-3cfb-484f-996d-c3b3a97a70d8,2025-02-20 17:12:06,988.43,Mcneil and Sons,Entertainment,Margaretfurt,Visa,0
+75f1ad71-8ad5-4775-8e84-d65b13fe5172,2025-03-19 09:22:34,321.34,"Short, Levine and Bell",Entertainment,Port Allenborough,Visa,1
+8791a172-0ee1-48a6-b0b9-27672096a233,2025-03-01 11:57:10,345.17,Mullen LLC,Health,Crossstad,Amex,0
+1e84923e-99ec-405b-a933-679488fe6df1,2025-01-16 22:04:14,605.49,"Flores, Nielsen and Cook",Entertainment,Martinland,MasterCard,0
+437b9fc7-11d8-422f-85fe-ea8a3b58d0d3,2025-01-21 17:04:05,445.29,"Miller, Perez and Figueroa",Travel,Lake Patricialand,Visa,1
+50061870-a1fa-44a1-a6eb-35c1b5b83a7d,2025-01-12 20:44:05,121.88,Bernard Ltd,Tech,South Laurafort,Visa,0
+8e4d5383-1cc5-46b8-9f5a-d6d99538d1d6,2025-02-06 13:42:24,820.73,"Garcia, Torres and Grant",Travel,Taylormouth,Amex,0
+c55fe956-2e21-49c1-b30e-284fc8daf696,2025-01-27 19:30:11,457.66,Patel-Hamilton,Food,Orrton,MasterCard,0
+cefeeed3-79eb-4cd4-8959-36c7c60529d4,2025-01-27 07:37:44,686.39,Thomas Group,Entertainment,West Jenniferberg,MasterCard,0
+e60401a1-ff18-40d6-ad53-deb317a23bd5,2025-01-09 19:28:07,476.02,"Tyler, Salazar and Obrien",Food,Gregoryberg,Visa,1
+666ef7b5-e22b-47c0-a33a-69f5d565b67d,2025-01-25 11:49:49,500.97,Welch Ltd,Clothing,Karenshire,MasterCard,0
+f666c4c1-ae8f-44fd-8ee1-e418f05a9e7b,2025-02-25 12:13:15,220.1,Harris-West,Tech,Port Krystal,Amex,0
+e9fcb613-3fa1-49a4-b4ec-b99030caa410,2025-02-24 20:13:14,418.16,Johnson-Martinez,Tech,Kathleenland,Visa,0
+1541fa29-1ac4-45db-b222-7c0a4278ca84,2025-02-04 09:44:29,107.44,"Livingston, Robinson and Hull",Food,South Robertaville,MasterCard,1
+a337ced1-a4cd-4e6b-93c4-a81274cd84cb,2025-01-31 02:59:02,739.92,"Anderson, Brown and Peck",Travel,Jeffreystad,MasterCard,1
+7bc87659-929a-465a-b1ce-82de31681f7c,2025-01-14 00:27:38,369.65,"Smith, Ward and Taylor",Health,South Christy,Amex,0
+e8edbd60-d1bc-4e05-9b3a-62eda68e9725,2025-02-03 14:23:07,875.98,"Martin, Lopez and Stevenson",Travel,Loganberg,Amex,0
+a989f640-2e19-4b44-aef0-1d389cdde950,2025-01-20 03:01:30,115.66,"Rowland, Collins and Gordon",Tech,Rebeccashire,Amex,0
+b581e1ff-c250-42ed-86ab-fc671a4eb481,2025-03-18 19:45:58,252.16,Gallegos and Sons,Health,Port Gina,Visa,0
+42559713-580f-4ea0-b1d7-9c80290b759b,2025-03-04 09:46:14,254.06,"Moore, Santiago and Perez",Entertainment,Courtneybury,Visa,0
+c9bf6a81-e054-4288-b8f8-f84c3e56357e,2025-01-31 08:25:52,740.8,Palmer-Benson,Clothing,North Danielhaven,MasterCard,0
+89e6e4a5-1415-4cf3-8cd9-9446d5f0ee8f,2025-01-09 12:13:21,81.24,Scott-Hoffman,Travel,Port Scott,Amex,0
+f896763b-67e7-4e8a-974e-8338e5afd028,2025-03-18 16:47:53,419.36,Lawrence Inc,Clothing,South Robertfurt,Amex,0
+11f68349-2d00-4d5f-8c21-b0544079ab93,2025-03-05 09:48:27,976.63,Johnson Group,Health,Evansview,Amex,0
+6bbc77d9-e717-4602-a862-11f1e876af4f,2025-03-11 07:13:24,647.1,"Riley, Newman and Dorsey",Travel,North Kristi,MasterCard,1
+da7d733b-6cb4-4bc8-be0a-865ea37f8d0b,2025-02-15 17:53:32,269.14,Johnson-Bradshaw,Tech,Barryport,Visa,1
+62cb0214-d227-4b95-a2c8-13e2d2eb70df,2025-01-27 22:20:30,68.9,Rivera PLC,Tech,Kristiefort,Visa,1
+e1672778-f68e-4a88-b365-0b1239b5b5bb,2025-03-10 16:08:51,791.59,Hamilton PLC,Tech,South Andrewton,Visa,0
+fca56b35-47e6-4e54-8d67-799829fc66f1,2025-04-01 00:49:53,142.73,Krause and Sons,Entertainment,Port Jacqueline,Visa,0
+5dced662-6854-4c1b-8dc0-8868051c4d95,2025-01-11 18:47:12,133.86,Edwards Inc,Travel,West Sabrina,Visa,0
+821efc76-6b9f-4607-9198-ee5ebbd06f1e,2025-02-22 17:26:24,821.98,Ellis-Weiss,Travel,Christopherville,MasterCard,0
+f67824f3-68b7-4cb5-9bda-0178c9f33291,2025-03-07 03:07:13,517.11,Higgins-Hughes,Tech,South Michaelside,Visa,0
+9ba926b4-42c5-4928-8939-824fb02814e6,2025-03-20 15:08:36,302.33,Davis-Torres,Entertainment,Clinemouth,Visa,0
+bd48ef71-1eae-47d0-8630-ca55231162bc,2025-02-16 14:44:29,93.21,"Elliott, Sanchez and Nelson",Clothing,West Kristaland,MasterCard,0
+5bc59766-8987-456e-a72f-86d1ced062fe,2025-03-18 16:55:29,553.81,Trevino Group,Entertainment,East Robert,Visa,0
+7492e678-b06f-48ba-8436-9ad47ec6103e,2025-01-06 13:06:12,716.33,Foley-Allen,Clothing,Lake Angela,Visa,0
+2f5e7cf7-8ca4-4ab9-aea5-e0b1cc042bba,2025-01-21 05:26:24,834.99,"Sampson, Spears and Medina",Food,Lake Ryan,MasterCard,0
+637c0fce-b60e-4f2e-ae21-ea66e7ff19cd,2025-01-11 02:18:25,623.53,"Barr, Carney and Garza",Entertainment,Austinside,Visa,0
+60d79297-ab87-429c-ac9f-2d1f60d2d061,2025-02-15 02:12:51,683.45,Parsons Ltd,Clothing,West Timothy,Amex,0
+46ace6d7-981d-4fac-8f47-a99de5beab62,2025-02-18 01:03:44,627.12,"Payne, Johnson and Long",Travel,New Howard,MasterCard,0
+604f543c-992e-413f-ad2d-ebf5159483c8,2025-04-01 13:41:31,746.55,Lopez-Ayers,Tech,South Eric,Visa,0
+a7f4efac-f761-4334-b4a0-220546b3d65c,2025-04-02 16:43:39,529.31,Bryant Inc,Entertainment,Port Robertbury,Visa,0
+eb27a71a-4512-437d-b4f0-48ab2046a26f,2025-01-20 03:34:19,674.29,Russell Group,Travel,Jenniferberg,MasterCard,0
+bc00f1dd-c9ce-465c-9b27-be710500a401,2025-03-26 13:04:46,234.59,Sanders Ltd,Food,East Duanefort,Amex,0
+c4d0ccad-22b2-4daf-a83b-e3e18fc96f48,2025-01-03 21:16:12,438.24,"Vega, Riddle and Smith",Clothing,Lake Johnview,MasterCard,0
+db019a28-9641-4110-9150-ed92dc951543,2025-03-10 09:57:28,438.68,Carr-Burns,Entertainment,Mcfarlandmouth,MasterCard,0
+f2f43ef1-892b-4d36-b607-cf69443d3562,2025-02-09 23:02:00,179.3,Espinoza Group,Health,Williamsonfurt,MasterCard,0
+ac70d9ec-fe6d-410e-9024-a7d286d8ad90,2025-01-09 05:18:12,822.29,Adams-Fritz,Clothing,Fishertown,MasterCard,0
+00525e6e-ccfe-4c52-93f0-5bbe4d0743ac,2025-03-25 18:33:50,221.82,"Wright, Rivera and Cole",Travel,East Robertfurt,MasterCard,0
+17de2fd4-9c46-4efa-80fb-f544d0421516,2025-03-17 06:07:31,340.17,Phillips-Padilla,Travel,Port Gabrielport,Visa,0
+53bc3927-890e-4766-89c4-722f20f14bc7,2025-03-30 05:59:58,840.67,"Clarke, Smith and Davis",Tech,Brownhaven,Amex,0
+df20c535-1e87-4af7-8d38-99620a0a07db,2025-01-22 11:56:52,892.29,Harris-Andrews,Food,Foxhaven,Amex,0
+d4af229e-16ea-4d68-baf8-b7eb0e90cb3b,2025-02-14 14:30:17,895.61,"Woods, King and Cervantes",Health,East Jamie,Amex,1
+781eb262-6b21-4c4d-9570-bb7a27e9a1e4,2025-01-13 17:25:35,972.41,"Brown, Woods and Lucas",Entertainment,New Phillip,Visa,0
+54798fd6-3af5-4663-aa57-4caddbc2048f,2025-03-03 15:51:38,678.09,Anderson LLC,Entertainment,Maryhaven,Amex,0
+dbfeaebd-6f34-4557-8f11-da11d6d31066,2025-03-11 06:13:11,54.56,"Hunt, Lang and White",Tech,Williamfurt,Amex,0
+39121ccc-e323-43f2-8e15-10627004de7f,2025-01-27 07:55:37,667.47,Sanchez Ltd,Food,South Patriciaside,Visa,0
+c6b4eb17-9871-4165-b88a-03273839226f,2025-01-10 14:53:38,120.77,Hernandez and Sons,Health,Wrightmouth,Visa,0
+f070324c-8f9f-44c1-a758-6d5ad8637c27,2025-03-31 02:22:47,242.11,Evans LLC,Clothing,East Susanstad,MasterCard,0
+014f424c-216d-4eae-b52f-40f593f88bad,2025-01-15 13:21:45,21.31,Morales Group,Clothing,Lake Kevin,Visa,0
+f8235d61-95b4-4bba-bc36-fac7a6d68120,2025-02-25 14:03:27,558.41,"Cole, White and Smith",Clothing,South Justinmouth,MasterCard,0
+54fafd30-165d-49b1-97de-6c082a38e0b2,2025-01-22 07:10:23,212.21,Costa Ltd,Entertainment,New Jennifer,Amex,1
+fd73d5cc-4ee9-4431-bb10-ac930e416252,2025-01-06 06:23:21,741.49,Noble Inc,Health,Isabelview,Amex,0
+d7d025aa-38c7-4286-80af-e6ede3f48766,2025-02-10 16:44:03,253.15,"Curry, Anderson and Hebert",Food,Matthewshaven,MasterCard,0
+261a69a8-3c75-4fab-8190-c8745ad9915b,2025-02-12 05:12:11,299.86,Parsons Inc,Clothing,Ryantown,Amex,0
+918c54e2-20e8-4148-afb9-c82822db6857,2025-02-08 09:59:10,279.73,"Bennett, Hampton and Sandoval",Travel,Johnsonmouth,Visa,0
+2acbf0da-ca29-4143-a579-3e2ece2d45ba,2025-03-24 03:30:45,817.07,Becker and Sons,Health,Karenport,Visa,0
+fc81aefc-a3e3-49e2-bc06-6af3a41e5a36,2025-01-09 17:07:12,211.81,Thomas-Howe,Entertainment,Lovechester,Visa,0
+16335f5b-ffb8-4e2c-9dda-7fa7f9e81751,2025-01-15 09:58:34,488.37,Harris-Myers,Food,North Danielland,Amex,1
+85030f99-1c80-4cab-ba12-4b6446a05d5e,2025-03-20 00:52:09,238.4,Noble Ltd,Food,Abigailburgh,Visa,0
+1217a901-8f64-44be-8d24-d63430112734,2025-01-29 21:58:26,968.43,Acosta and Sons,Health,North Sherryview,MasterCard,0
+969157a3-43c2-4311-a088-b9210bcc16b8,2025-03-08 14:25:59,552.09,Houston Ltd,Food,South Erikview,Visa,1
+a6a748ff-8a64-4606-bc35-5967b3520af7,2025-02-28 15:39:39,27.23,Carpenter-Grant,Entertainment,Amberstad,Amex,0
+f6477e69-fc7f-4ab4-a2a9-578657dbf0e0,2025-01-13 15:29:49,580.75,Davidson-Wright,Entertainment,East Ellenberg,Visa,0
+dfb527d5-7de7-43b2-8567-0134e9cd1b5f,2025-02-13 03:40:15,680.6,Parker-Davis,Food,West Maria,Amex,0
+cec5fab1-9195-4f0d-81c4-b701eb6674cf,2025-01-29 11:14:36,629.4,"Morris, Gonzalez and Richardson",Health,North Sandra,MasterCard,0
+1271a8bd-5ff4-4ab4-98f1-6f31a483a4a5,2025-03-28 00:34:56,905.3,"Mendoza, Lewis and Diaz",Tech,Lake Anita,Amex,1
+84e3128c-40c4-42fc-a984-d15e017e64f2,2025-03-23 14:10:37,468.55,Sullivan-Douglas,Tech,North Meganburgh,Visa,0
+25321419-a073-427c-b95c-522ee1e2bc79,2025-01-14 20:15:21,815.97,Long PLC,Entertainment,Teresaside,Amex,0
+9738a262-c5d0-4832-833f-331b2733450b,2025-04-03 01:02:46,891.68,Walker-Kent,Clothing,Patriciashire,Amex,0
+cccd0bd3-03b0-4856-bce2-6a973c795ca9,2025-03-10 23:16:58,247.38,"Dennis, Dunlap and Johnson",Health,Port Kimberly,Amex,0
+013a1cfa-2f14-45d2-8645-9a1b8e11c080,2025-01-24 07:37:27,897.91,Wall-Lewis,Clothing,Brooksberg,Visa,0
+3899cbaa-335f-4716-9340-613483988550,2025-01-06 07:45:06,624.69,Sanchez Ltd,Health,South Matthewfort,Amex,0
+cf033414-8bd1-4177-8456-28af64a2fd7e,2025-01-24 16:58:49,418.28,Ramos PLC,Food,Lake Lauren,MasterCard,0
+a79c5b74-1dc5-4060-aec4-c413648bb3bc,2025-02-11 19:33:42,594.07,"Nelson, Holt and Alexander",Clothing,Ryanfort,Amex,0
+074d7981-947f-4b34-8503-58d7cb883922,2025-02-28 13:09:33,668.17,Hayes-Gutierrez,Entertainment,Luketon,Visa,0
+4307bdff-a3a0-4167-b148-8565e044a43b,2025-03-18 23:17:30,484.77,"Hutchinson, Espinoza and Reid",Tech,Christinaside,MasterCard,0
+72b34ee9-0980-4e9b-8b92-2df1c9d5cd91,2025-01-17 03:54:19,164.24,Robinson LLC,Clothing,Harperton,MasterCard,0
+6c3a7ff1-7931-49c6-b6f2-96653a8c7cba,2025-03-09 04:10:34,455.89,York-Duke,Travel,Port Charlesborough,Visa,0
+5e4ec557-404a-4b88-bffe-bb08e41dcfb0,2025-01-28 13:10:26,244.06,Fry PLC,Entertainment,South Angelaville,Amex,0
+5e3ae161-4981-43cc-b3e7-82be60c76c82,2025-01-12 16:36:17,258.07,Quinn Inc,Clothing,Port Amy,Amex,0
+32df880e-e645-4f9d-978d-3283b16e3c37,2025-02-24 21:38:53,873.26,Gibbs-Sanchez,Food,Jenkinsshire,Amex,0
+e27da28d-be41-47d4-92a7-5d128490b4a1,2025-02-03 13:30:37,291.97,Greer PLC,Tech,Kiddland,MasterCard,0
+0c511cce-2fd3-4908-9f52-b1f13629e81f,2025-03-05 04:33:51,703.0,Williams LLC,Travel,Lake Amandachester,MasterCard,0
+4cf1c650-e3b7-4cc9-89b1-6dc8b0ff6568,2025-03-05 14:32:53,690.59,"Hicks, Lozano and Rivera",Tech,New Cindyport,MasterCard,0
+6686326e-410b-4cc0-8715-d783f5718892,2025-01-22 07:04:46,670.16,Phillips-Tapia,Health,Lawsonmouth,Visa,0
+d798c6ee-6bb6-422c-9eb6-7319ad0b2c2a,2025-01-28 05:35:24,961.51,Morales-Nichols,Health,Patriciaborough,Visa,1
+54363705-636d-4a03-932a-34c9b1f5a552,2025-03-06 17:00:47,375.47,"Pearson, Beltran and Vasquez",Tech,Lake Jean,Visa,0
+e2a3dd0b-a883-4e6b-a1f5-80f39ffbf65f,2025-01-10 01:30:55,182.55,Obrien-Lara,Travel,Kellertown,MasterCard,0
+27c05b3e-0cab-4a74-b0d2-4cacc590594c,2025-01-06 23:23:06,122.24,"Williams, Cunningham and Key",Tech,Dylanport,Visa,0
+3d7e45c3-7920-4836-add5-c242a83d8d74,2025-01-04 15:32:13,301.65,"Allen, Kline and Daniels",Health,Port Matthew,Visa,0
+d75c19d6-775b-480b-b4da-3b8d9f71c2e2,2025-01-21 03:14:29,8.82,Estes-Walker,Health,Maymouth,MasterCard,0
+1a77ddae-8c08-4f76-8e59-ce313eb145a0,2025-01-03 01:47:58,384.46,Smith Inc,Entertainment,Medinaton,Visa,1
+8a3e607c-8f7f-4556-b031-5ab5034fb833,2025-03-28 08:51:57,140.64,Powers-Williams,Health,Connorbury,MasterCard,0
+d236ca7a-f61f-42a4-9a19-2613a0c876e6,2025-03-11 08:11:44,442.6,Harris-Short,Travel,Joshuaberg,Visa,0
+a55a6de1-7c64-49fc-b46b-fe42d2636975,2025-03-29 09:48:42,444.23,Keller-Harris,Entertainment,North Jacqueline,MasterCard,0
+38018e83-7c67-430b-8f7b-4c1042e2c4b1,2025-02-11 15:36:10,991.0,"Martin, Williams and Humphrey",Health,Wadebury,Amex,0
+aa4b573a-b51a-4c47-8884-a93d9c234839,2025-03-12 01:40:58,206.88,Klein Group,Food,West Jacob,Amex,0
+a1246dd7-3db9-49d8-aca5-fc47e9767f6c,2025-02-13 05:48:58,193.1,"Jacobs, Johnson and Peters",Food,East Maria,Visa,0
+5effa5b5-a259-4377-92ed-49962fbf9fc7,2025-03-16 19:27:57,582.66,White-Taylor,Health,Ruizside,Amex,1
+f3bdfe8a-1869-4fd5-9a19-a22a30b88463,2025-02-18 16:02:37,885.9,Wise-Banks,Travel,Courtneystad,MasterCard,0
+d8efc78a-d109-459a-87f7-5c64180dab8d,2025-03-30 21:38:36,431.62,Lopez PLC,Clothing,Manningfort,MasterCard,0
+c16f4f85-e132-4f81-9505-e65a59f6f0a1,2025-02-22 13:27:13,383.65,"Dodson, Simpson and Raymond",Tech,Melissaland,Amex,0
+98b4149d-ac1d-4ab5-b1ca-060b05349ffb,2025-04-04 18:28:30,317.98,"Sawyer, Reynolds and Jacobs",Clothing,Cainside,Amex,0
+0111ee23-91c9-400d-9970-6bd6a89019b3,2025-02-02 22:30:46,616.3,Duncan and Sons,Health,West Samuelport,MasterCard,0
+afc00520-aa5b-4867-a478-9e346e3a5a9f,2025-02-11 21:50:11,228.91,"Hall, Weber and Hull",Health,Lake Tonya,MasterCard,1
+addd915e-a400-4400-82d6-85d2f8be137d,2025-02-01 16:25:30,428.26,Daniels-Williams,Food,East Stephanie,Visa,0
+612c9df1-289c-4e23-8515-8463c813f003,2025-02-04 13:09:55,27.51,Cunningham-Smith,Tech,Weeksberg,Amex,0
+609fd33c-066a-4a4c-8220-7d0900e63012,2025-02-09 11:29:15,526.56,Rogers-Merritt,Entertainment,Evanbury,Visa,0
+6302e781-b60d-43b0-b433-9d6b6bee39d8,2025-03-10 16:10:10,242.78,"Reynolds, Hartman and Nelson",Entertainment,South Melanie,Visa,1
+1afb3877-dab8-4ef5-9e84-1472c84abcd9,2025-01-28 10:13:11,163.49,"Gordon, Carpenter and Young",Travel,Cherylshire,Visa,0
+cf5ca53d-ce9e-41ac-a319-307cb7c386c5,2025-04-04 12:13:39,671.51,Ferguson Ltd,Clothing,Eddieview,MasterCard,0
+3ff79895-96a1-431f-9910-9ca32fcf72ce,2025-03-15 23:14:57,331.46,"Collier, Moreno and Johnston",Entertainment,South George,MasterCard,0
+aa0c1542-bfab-4c4b-aa71-e6f2ac619de0,2025-03-27 14:51:00,250.85,Perkins-Porter,Travel,Lake Christopherstad,Visa,0
+5dd2b6a5-bc19-49f5-ac7e-044758b1df54,2025-01-25 06:39:33,499.8,"Anderson, Roberts and Black",Entertainment,Johnsonburgh,MasterCard,1
+ec5336fd-6fae-46bc-b765-08180c97398b,2025-03-12 22:36:41,163.34,"Pena, Powers and Velazquez",Health,Rodgersberg,Amex,0
+929c00db-44b7-4e04-818f-8e798f485a33,2025-01-10 19:42:04,792.73,"Hicks, Ramirez and Mitchell",Tech,West Roy,Visa,0
+333fe23a-4730-4fba-b885-5d0f1eea5cdb,2025-04-03 03:46:13,518.58,Summers Ltd,Travel,East Brian,Visa,0
+277a21d6-a36a-4e32-9f44-c98b0c4d10f6,2025-02-21 22:05:31,53.31,Lee-Matthews,Entertainment,Curtisbury,Amex,0
+440a3d9f-dd96-4979-ae01-73c03414311f,2025-01-10 23:11:49,877.83,"Summers, Myers and Vincent",Health,South Thomas,Amex,0
+c4e77fff-84d2-4a6a-b502-c2ed4056d72d,2025-03-03 10:44:58,374.54,Kim-Boyle,Tech,Ericland,Amex,0
+7fec063b-cd15-47d4-b035-7cd5cc203803,2025-01-25 05:58:22,234.77,"Mcclain, Moore and Figueroa",Tech,New Timothy,MasterCard,0
+7198b769-0c75-480d-8c59-342bad41dd67,2025-03-08 10:44:02,899.03,Fowler Group,Tech,Carterchester,Amex,0
+b6805a06-5684-479d-8406-72b42e95a40e,2025-02-13 10:26:32,450.28,Rollins Ltd,Health,Jacksonfort,Amex,0
+c828aec0-747e-4816-8936-f5ef46ad7a9f,2025-01-15 08:23:07,10.44,Smith Inc,Tech,East Seanmouth,Visa,1
+3dd978d2-8e55-4b13-8429-b37f1cb27158,2025-02-27 20:38:03,500.76,Mitchell-Miller,Entertainment,West Gail,MasterCard,0
+9ef81dc7-b111-4a1a-a2d1-e0f1c9eba13c,2025-03-24 02:40:25,162.8,"Ross, Rodriguez and Powers",Entertainment,West Ruben,Visa,0
+c3b4cc7c-8ecb-4f3c-a01c-b93697620f6e,2025-01-13 22:30:07,831.28,"Bennett, Ferguson and Higgins",Entertainment,New Charles,MasterCard,0
+b647f936-1088-463d-91b7-c4968ea3a237,2025-01-13 18:49:58,289.31,Lopez LLC,Clothing,East Heatherview,Amex,0
+04c1b95e-ff49-4cf2-8361-0ad3bd07fa71,2025-03-19 09:26:59,557.39,Cain PLC,Entertainment,Kennethview,MasterCard,0
+e60f82c4-adc2-4ece-8f2b-f604b0a60b19,2025-03-24 12:17:36,134.21,"Hubbard, Moore and Simpson",Clothing,Johnside,Amex,0
+c4aef516-a225-44aa-a3ff-2c3bfecbb299,2025-02-15 01:58:48,271.65,Hernandez PLC,Travel,New Christopher,Visa,0
+f2c38115-822f-46d2-b0a6-66a7cf896537,2025-03-21 07:10:45,782.85,Sanchez-Oconnor,Travel,New Gary,Amex,0
+0a9558c2-1586-4d34-bd36-ab5616544334,2025-02-11 17:18:32,507.81,"Wallace, Little and Lloyd",Health,Karenport,Amex,0
+1e831783-e664-4d28-8729-0bf8006bff96,2025-01-10 00:14:06,494.02,Hahn Inc,Food,Port Kelly,Visa,0
+73921c97-188f-423c-8d62-870c008a5b9a,2025-03-05 01:11:50,55.15,Cook-Mccormick,Health,Port Nicholas,MasterCard,0
+e1613c7a-bc8d-49a8-941c-6a9b62a5e4d6,2025-04-06 06:04:10,185.6,Stephens-Miller,Tech,Sabrinafurt,MasterCard,0
+ddba63c6-c245-4835-a0c4-2860185b4813,2025-03-09 15:40:35,760.61,"Garza, Pierce and Zimmerman",Entertainment,Sueton,Visa,0
+43da93c0-9558-41ac-ac1f-b7dbcf46a050,2025-02-14 01:30:54,976.23,Smith-Fisher,Tech,West Williamhaven,MasterCard,0
+f0944fe2-f1bb-48a2-911d-7aa17a135204,2025-02-13 01:06:23,876.49,King-Harvey,Travel,West Russellhaven,Visa,0
+9021e49c-de5e-4a22-81ac-426511884c34,2025-01-26 11:22:37,310.92,"Alexander, Ponce and Benjamin",Entertainment,Perezview,Amex,0
+36f9c598-ec32-460c-8281-2e7508d37c28,2025-02-26 17:10:57,132.81,Cuevas and Sons,Clothing,East Andrew,MasterCard,0
+d4a9def3-0f70-47b2-b620-fc7ee6495681,2025-03-21 18:41:18,933.97,"Lewis, Payne and Thompson",Clothing,Alecberg,Amex,1
+af0c2cf4-7c95-4cfc-88e0-2ade5c4dbcda,2025-02-12 04:19:04,140.64,"Hampton, Moran and Jones",Food,Hartmanborough,MasterCard,0
+a0f9b616-f532-42a5-9b98-1b469da2fa93,2025-03-24 00:59:09,957.4,Caldwell-Garcia,Clothing,East Dorisland,Visa,0
+83ea5174-2102-4ab1-b173-fd1d87b5b74d,2025-01-24 07:05:28,536.69,Garcia-Faulkner,Clothing,Danielland,Visa,0
+68fc7de1-3788-4f6a-9228-72cb5dbd7249,2025-01-10 16:43:23,347.02,Sandoval-Mack,Clothing,West Carltown,Amex,0
+33b87ea2-6b9b-409b-9a6f-1af8838912ba,2025-02-03 16:36:20,91.04,Martin Ltd,Travel,West Bryan,MasterCard,0
+2a4b2ae7-d13f-4dba-bfae-598393dade10,2025-01-13 04:44:05,602.86,"Smith, Mendez and Brown",Clothing,Lake Jeffreyfurt,Amex,0
+584e7fa5-1bd8-4224-b6f9-14b09cbc6f8d,2025-03-24 03:53:51,597.14,"Jones, Bryant and Gray",Food,Longborough,Amex,0
+90352497-82fa-46bc-a66a-1b2f3ed12b57,2025-04-04 17:53:18,418.47,"Jones, Jimenez and Mathews",Tech,Port Christopherburgh,Visa,0
+467b7569-3fde-4d12-9c31-7feb6e934e6e,2025-02-21 02:58:13,381.77,Combs LLC,Health,Leeview,MasterCard,0
+5db8d45c-1901-4a49-9d03-b1f0563113ab,2025-02-27 14:46:06,564.39,Pruitt Ltd,Health,New Peter,MasterCard,1
+940eaaba-6dc5-4b50-b780-b9fa8febb6c7,2025-02-06 00:40:15,746.81,"Smith, Reynolds and Moran",Travel,North Alejandra,Visa,0
+8b780d09-4068-4732-bf5f-0415a12d4a37,2025-01-10 01:30:39,449.62,Ward and Sons,Health,West Seanmouth,MasterCard,1
+2f61c4d0-62ed-4a0b-9964-09861e66a86f,2025-03-17 09:40:27,42.15,"Rivera, Bowers and Stanley",Food,Jasmineside,Visa,0
+9f9aaadf-cc64-48b2-b910-b667e488034b,2025-01-13 20:36:48,276.37,"Mclaughlin, Mullen and Chan",Entertainment,West Juan,Visa,0
+6c472acd-dc64-4b9a-9117-c160f34faa1c,2025-01-10 19:24:16,501.87,Boyer-Brown,Food,Butlerstad,MasterCard,0
+5b560e23-8905-4658-8c38-27c4f8281290,2025-03-17 13:30:33,780.34,Yates-Alexander,Clothing,Faulknerberg,Amex,0
+f009dbc8-9de4-4cea-a325-3ac34ad76991,2025-03-18 16:47:08,752.5,Bautista Group,Entertainment,North David,MasterCard,1
+13446f13-6a08-49ab-93a7-a285de1d1062,2025-01-06 22:48:12,937.22,"Bautista, Donaldson and Lawson",Entertainment,North Lisa,Visa,0
+e70174cd-50ba-4639-9a18-3ccf713c5069,2025-02-20 19:33:23,269.19,Alexander-Wilson,Entertainment,Jamesfurt,Amex,0
+39ca6f0e-e40f-418d-87df-86b9c8fbe575,2025-03-23 23:22:26,185.96,"Pennington, Perez and Larson",Tech,Suzannestad,Amex,0
+76df727f-7e72-417e-a3b7-96b6a47fcca3,2025-02-24 22:43:15,283.72,"Walker, Young and Hutchinson",Food,Whitehaven,Visa,0
+77cec818-8edb-42c0-9427-2ca17ba3a95e,2025-01-18 13:29:13,969.99,Duffy Inc,Food,Amybury,MasterCard,0
+0b6f5231-5ec5-41d7-845a-2bde78bd31ad,2025-04-01 05:14:50,573.83,Berg-Anderson,Entertainment,South Eric,Amex,0
+b0b8b356-3222-4cc8-a3f6-0239d2692f81,2025-01-25 02:09:53,322.93,Pierce Group,Clothing,Paulberg,MasterCard,0
+66cca851-253c-46c6-b023-5c98df1ad092,2025-01-13 00:00:10,156.32,Pham-Braun,Travel,Reynoldsview,Visa,0
+7e236e9d-bf13-436e-b086-b3a3a59419d8,2025-02-14 10:14:50,352.95,Gill-Alvarez,Travel,South Raymond,Amex,0
+2bb425bd-9d82-4c4f-82cf-bf3c6b6456ca,2025-03-20 11:15:09,884.75,"Collins, Young and Miller",Food,South Waltermouth,MasterCard,0
+58245800-676b-40a0-9338-8bb500ce0050,2025-01-09 03:25:32,45.04,Johnson-Yang,Travel,New Josephview,Visa,0
+303ca8df-d119-40ab-a2da-0796cec92ff8,2025-02-24 08:08:41,656.4,Patel and Sons,Food,Port Amandamouth,Visa,0
+0a267aa2-c09b-46db-a142-94940c706d29,2025-01-23 18:23:24,288.93,"Taylor, Lewis and Rodriguez",Clothing,Walkermouth,Amex,0
+2ae6eea1-dc56-490c-81a1-239938d2a458,2025-02-27 08:39:37,240.21,Swanson-Miller,Tech,South Johnville,Amex,0
+e5ed1efc-b14c-41f8-b368-c19314aa1965,2025-01-12 22:29:35,68.07,Howard-Henry,Food,Ryanstad,Visa,0
+28bceb57-0017-473f-973d-52448ec9a0b0,2025-02-24 18:37:03,440.78,Garcia Inc,Clothing,East Rachel,Amex,1
+b7eee575-a20f-4840-b8f9-6a7edc246666,2025-02-01 17:49:27,222.33,"Barrett, Rodriguez and Alvarado",Health,Melaniefort,Visa,0
+4b7a63cc-7310-429a-9016-1b894010608d,2025-01-16 16:38:07,239.2,Peterson-Russell,Entertainment,North Pamelaborough,Amex,0
+ddf975d5-21be-46a4-a1b3-60f626a27fc3,2025-01-31 11:55:36,880.23,Edwards-Jackson,Health,Jamesberg,Visa,0
+a878fbf9-1624-42c7-a44f-db24151761fe,2025-02-10 17:46:54,766.07,"Clark, Mitchell and Murray",Tech,South Karen,Amex,0
+056af1d3-5061-46d5-9a1a-b7223223bf41,2025-02-20 23:30:20,911.67,"Baker, Joseph and Aguilar",Entertainment,South Johnfort,Amex,0
+35955044-fea1-4500-ad3f-8f0a935f8ca4,2025-02-11 16:58:12,61.76,"Hicks, Aguirre and King",Clothing,Gloverland,MasterCard,0
+a1025a01-e252-4f23-8ada-97292394aea8,2025-01-25 12:28:16,189.05,Brown-Carpenter,Health,Port Michael,MasterCard,0
+be17bc89-62a0-479b-9a6e-71a007884f60,2025-03-23 11:48:59,338.75,"Middleton, Taylor and Schmidt",Health,Port Amber,Amex,0
+ea105606-9022-423c-b8ca-50b5f77b006b,2025-02-25 00:05:00,715.52,Winters and Sons,Clothing,Lake James,Visa,1
+a32046ff-58d6-49cb-b1ed-c5c45abbbd3a,2025-03-17 20:47:15,244.49,"Stanley, Kennedy and Porter",Health,Youngville,Visa,0
+f3c3b930-057e-4804-b1b1-a2359a5c1acf,2025-03-30 08:34:11,309.98,"Arias, Guerrero and Thompson",Clothing,Lake Michaelhaven,MasterCard,0
+434ca694-ff57-4869-a544-d387ab060bf9,2025-02-16 03:11:02,798.34,Marquez-Griffin,Entertainment,North Davidshire,Visa,0
+a5cacf79-aa3c-4e72-bf45-f7ec06dbf155,2025-02-14 15:32:34,524.79,Medina-Miller,Tech,West Jacqueline,Amex,0
+6cfb82cb-7ed5-49ed-903e-2e0e5b267ed1,2025-01-28 19:14:08,800.79,Moore and Sons,Food,South Morganland,Visa,0
+e7fe047b-bd29-4a07-967b-c8c98a00e47d,2025-02-13 00:11:49,37.66,Jacobson-Anderson,Food,North Kevin,MasterCard,0
+2acfccb2-e4a5-40c9-b8ce-c027a17d96ca,2025-02-26 12:44:31,51.54,Griffith Inc,Health,Port Anita,Visa,0
+3a880391-2d6d-40c5-8c60-47666d5c6c39,2025-03-15 09:02:02,131.64,"Meyer, Lynch and Kim",Travel,Emilyton,Amex,0
+0a2656c2-c079-47d2-a95a-e0db68394458,2025-02-28 18:45:28,70.9,"Edwards, Tran and Sanchez",Entertainment,Leeburgh,MasterCard,0
+f271484c-d844-419a-8418-b57e69089577,2025-02-04 15:17:48,417.17,Mcdonald and Sons,Entertainment,South Chris,Visa,0
+c9bb6903-205c-428e-a387-cdda323189fe,2025-01-18 12:43:29,64.15,Newman-Reynolds,Clothing,North Gabriellemouth,Amex,0
+6749dcc5-8266-49c9-ba42-38046779e916,2025-01-15 11:48:21,33.19,White-Humphrey,Entertainment,Lake Julia,MasterCard,0
+dc2ebe5e-cebb-4920-80c7-fcd8560d430c,2025-03-26 16:45:20,762.1,"Conrad, Avila and Thomas",Entertainment,Cynthiamouth,Amex,0
+210ce799-1e49-4f2f-bd59-678c19ebcd6f,2025-02-02 01:34:18,437.28,Smith LLC,Food,Lake Kimberlyton,Visa,0
+b1a3f47e-7d1a-43c3-9097-61aa002825fc,2025-03-29 07:07:14,707.25,Hoover Group,Entertainment,Smithmouth,MasterCard,0
+8bdee317-5aae-4d0a-a2f0-c8617608d3fc,2025-02-16 18:25:55,531.07,Jones-Marsh,Tech,Hayneschester,MasterCard,0
+971f3ea8-f91a-4b4d-b3ae-ae682f268701,2025-01-08 19:29:33,172.03,Booth-Gordon,Health,Thorntonborough,Amex,0
+806e8095-1612-43a6-8d2c-6252873ae406,2025-03-18 04:19:03,265.79,Welch Inc,Health,Carolynmouth,MasterCard,0
+447485cc-8c9b-41c3-98aa-ea25c947eb89,2025-02-19 22:02:49,153.69,Kelly-Stone,Tech,Ericksontown,Amex,0
+975d2e9a-ffdf-44da-b404-cbdddb9c6747,2025-01-27 07:07:52,41.22,Warren-Reese,Food,South Brianborough,Visa,0
+f882d7c7-c10f-4cd4-a8d9-d24ad0832b3c,2025-01-13 12:56:16,562.96,Ward Group,Tech,East Teresa,Amex,0
+2dc8d848-8b83-482d-b5a8-a19da120b84b,2025-03-01 13:32:58,807.32,"Gordon, Sawyer and Dennis",Entertainment,South Beth,MasterCard,0
+80984f34-8ee7-45c4-bdb0-b00d8f4d1798,2025-03-23 14:42:19,71.92,"Gomez, Clark and Rice",Entertainment,Bryantshire,Visa,0
+f92e6584-f2e2-4954-840a-b32405fddf81,2025-04-06 02:20:50,885.57,Davis-Gutierrez,Travel,Loweton,Amex,0
+7b73c89c-2ad2-466b-b606-a7e854e52085,2025-02-10 00:58:46,473.2,"Hines, Thompson and Fox",Clothing,Davidsonmouth,MasterCard,0
+f1a09b91-ade5-467c-95a7-18977dc46ac0,2025-02-09 00:14:04,351.67,Freeman-Smith,Tech,North Tinashire,Visa,0
+96c4b7ca-3e03-498a-8ddd-20c0a8aa8fc0,2025-01-09 12:43:57,634.49,Peters-Farley,Clothing,Blakemouth,MasterCard,1
+5193cea7-405c-40ed-8e1e-326082216998,2025-01-27 05:20:43,964.55,George Group,Tech,South Dorothyton,MasterCard,0
+ce425977-95df-434f-aea8-24c0706389c8,2025-03-24 10:50:22,642.05,"Clark, Knight and Brown",Clothing,Baldwinhaven,MasterCard,0
+690b8929-781f-4639-9b45-7ca6d13120bd,2025-03-19 10:01:05,787.01,"Hamilton, Roberts and Michael",Tech,Thorntonmouth,Visa,0
+31bda400-8a00-46e6-b36c-a58c29ebe9d5,2025-01-05 20:18:21,133.03,Miller-Johnston,Health,Berryburgh,MasterCard,0
+b6b04cc4-9a8e-4265-92d1-87229bff056a,2025-01-01 13:38:46,695.93,"Herrera, Ramos and Davis",Entertainment,Jefferymouth,Visa,0
+ff4f49f8-1d0e-47f8-860e-40c139758605,2025-02-14 14:19:57,267.79,Walker Inc,Tech,Port Martintown,MasterCard,0
+cf1b26f0-baca-4c2e-8549-45dad908a7bd,2025-01-27 17:11:48,518.23,"Fisher, Curtis and White",Health,Anthonyview,Visa,0
+7be8dc60-f2e5-4d9a-8a91-0c368a2cb501,2025-02-28 13:57:52,93.65,Miller-Glenn,Food,Carterport,MasterCard,0
+5a5549b9-3e16-420c-a699-6bdc738b6c43,2025-02-28 20:17:11,761.87,"Gonzales, Harrison and Anderson",Travel,East Juliefort,Visa,0
+78263b3a-4b36-4e24-aff4-26baff2faf2a,2025-02-27 22:18:03,286.82,Wilson-Williams,Food,Meganmouth,Amex,0
+d2728fb1-ad48-417f-99ce-829db7ef60c1,2025-02-02 01:32:17,801.52,"Davis, Bennett and Blake",Health,Haysbury,MasterCard,0
+c3bc4490-3f31-46eb-b5e1-8c376f1dd19a,2025-04-04 09:40:27,668.52,"Ferguson, Stevens and Mack",Travel,South James,Visa,0
+47390b38-cf97-456a-9a35-f183a03e43aa,2025-02-13 14:04:32,285.28,"Bowman, Harvey and Scott",Entertainment,North Roberthaven,Amex,0
+fa2e82b9-9f6e-4970-840f-f55b3e82d1a9,2025-01-26 02:52:23,747.73,Jones and Sons,Tech,Robinsonville,Visa,0
+5c451f8f-c6fe-4af8-86bf-67af87e6e2c4,2025-02-17 07:43:23,635.42,"Taylor, Duncan and Chapman",Health,Paulland,MasterCard,0
+b97c3428-73ef-44ca-95e8-f16f992c46dd,2025-03-12 15:09:15,750.73,"Boyd, Grimes and Shaffer",Health,New Josephchester,Amex,0
+d303621a-f003-4079-9f26-a83b994c105e,2025-02-27 18:12:06,112.76,"Wilson, Rodriguez and Pollard",Travel,Martinezport,MasterCard,0
+d31abe20-e716-49dd-ae63-a27920fc9f49,2025-02-06 00:12:46,968.76,Frank Inc,Travel,Kimtown,Amex,1
+0ddb72f4-e32a-4310-bd44-46a37bf8c2f7,2025-02-01 12:16:19,747.13,"Mason, Brooks and Wang",Clothing,Haydenfort,Visa,0
+a76f948f-43c8-4bba-923d-8c6b51e5abc3,2025-02-05 09:37:09,78.41,Miller-Vincent,Travel,North Edwardside,Visa,0
+50b2f0a7-4c8f-4928-bf57-efc77863c256,2025-01-27 22:12:06,198.07,Cervantes-James,Health,Lake Michaelview,Visa,0
+9a5fca67-fc51-402a-b93c-e56c6db34bdd,2025-01-25 02:13:46,591.83,"Reese, Mayo and Perry",Travel,Lake Barbara,Amex,0
+67197351-93e4-4fc8-9e56-71fdf8cc27ce,2025-03-04 20:18:45,61.39,Hudson Inc,Entertainment,East Matthewfort,Amex,1
+d2c70e67-fe56-4c2c-9cbb-e748681fa065,2025-01-06 13:41:12,950.84,Williams-Jackson,Entertainment,Fitzpatrickfurt,MasterCard,0
+2dc43a68-d3f7-4984-8727-a74f76c62ac4,2025-01-05 19:32:15,989.53,White-Mendoza,Entertainment,Port Jermainefurt,Amex,0
+e84d28e5-31e4-48a2-93e3-ab0acc01a85d,2025-04-04 06:07:53,451.05,Evans-Carpenter,Health,Nealview,MasterCard,0
+16718b7e-d9d6-4e36-9a23-b607818d7abf,2025-03-02 07:11:13,131.92,"Sanders, Brock and Arias",Clothing,Mahoneybury,Visa,0
+6b674c8d-7b6d-4ca7-a5d0-bd9823271fd6,2025-02-01 20:07:48,476.62,"Schwartz, Fisher and Stewart",Entertainment,Davisland,MasterCard,0
+be8dac26-6c3a-4ca9-a8a1-0d101166e87f,2025-03-01 10:17:32,300.59,Lopez-Scott,Tech,Liton,Amex,0
+f4f25875-7576-4381-98a7-a968b6c4822a,2025-02-23 16:39:39,939.01,Schmidt-Hudson,Tech,East Danielland,Visa,0
+97f6dd6d-757b-4664-a365-d57b9d26dcb3,2025-01-30 07:07:34,366.41,King Group,Clothing,Grahamside,MasterCard,0
+74a03989-dbab-48ff-98cf-60d0df9960c0,2025-04-04 21:02:29,528.24,Walker-Schultz,Food,New Andrew,MasterCard,0
+f0915d68-7a38-4201-a733-5b0a3515af99,2025-01-20 16:17:43,49.47,Wilson-Hawkins,Food,South Amber,MasterCard,1
+6bcd633b-15c7-4af8-9455-3b6b6e74f23d,2025-03-05 23:37:54,879.2,"Gibson, Schultz and Brown",Clothing,West Amandaville,Visa,0
+a520502b-bba2-4436-a531-1beab175db11,2025-02-06 00:45:50,474.05,"Brown, Juarez and Peterson",Tech,East Joshua,MasterCard,0
+ddf52fb4-eee7-47ad-99f3-d8183afd6e5f,2025-01-24 00:52:25,804.85,"Raymond, Moore and Marks",Health,Millerland,Amex,0
+092e3569-cbfd-4352-8292-54c38b95582a,2025-03-14 05:41:59,76.17,Patel LLC,Entertainment,West Laurafort,Visa,0
+66444d29-8d13-4c2e-9c3a-e0a0316c0057,2025-01-17 23:05:16,766.06,Hernandez-Graves,Entertainment,West Danielport,Amex,0
+d505d3ef-1f20-45fd-81fb-d2bebef66767,2025-02-28 17:19:11,82.9,"Scott, Flores and Stewart",Entertainment,Michaelport,Amex,0
+b306c6ae-bfcf-4d2d-98d3-aa07ff592ddf,2025-02-16 07:29:45,864.79,Burgess PLC,Food,Davisfurt,Visa,0
+b41fc1aa-8c8a-45d7-aa1b-3d098d5cb948,2025-01-25 19:20:27,153.23,Scott Group,Tech,Michaelmouth,MasterCard,0
+be64db7c-a139-40bc-8082-cbc071455412,2025-03-09 17:15:46,712.44,Patton LLC,Clothing,Mitchellmouth,Amex,0
+e8c51037-3a25-4a22-81f2-29bfb78a72b2,2025-03-21 05:29:38,41.21,Marshall and Sons,Food,Wilsontown,Visa,0
+2f6d9feb-9ab9-4ba3-a958-5bfb92aceb5a,2025-03-27 14:44:28,670.96,Riddle Inc,Travel,South Danielle,MasterCard,0
+49ae63fd-b3c9-4f69-9ef3-2509cb87429a,2025-01-11 19:08:50,980.05,Romero-Ross,Food,Elizabethhaven,Visa,0
+3070b483-9ee0-46b7-948e-3c33b5d96fc6,2025-03-05 11:50:21,148.63,Garza Group,Entertainment,Lake Richardmouth,Visa,0
+a122330d-affe-4c85-a93d-5a7753edfd59,2025-01-08 12:48:49,899.37,Oneill-Kirby,Travel,West Sheila,Amex,0
+ec0103d9-88d6-41c7-975a-7e6210524833,2025-04-05 08:16:32,790.71,Leon-Shepard,Entertainment,Pooleshire,Amex,1
+cb06e0eb-a800-4e4c-953b-f46b882cb21f,2025-03-18 03:19:31,857.68,"Sanders, Jones and Butler",Tech,Fullerport,MasterCard,0
+7973ac30-4b3e-411b-ae00-684f262f7fcf,2025-01-28 07:14:53,503.4,"Wilson, Smith and Ortiz",Clothing,Normastad,Visa,0
+c032001d-3766-4f73-af84-3fe8f75d6541,2025-02-18 12:48:09,610.2,Anderson Ltd,Travel,Port Karen,MasterCard,0
+575fd804-62fb-4165-aead-c260f7db14e9,2025-01-05 20:07:33,229.71,Aguilar LLC,Food,Port Maria,MasterCard,0
+a8de5bd1-8d11-4eda-ae1a-d7853d46b016,2025-01-30 02:07:34,939.3,Martin-Arnold,Food,Crystalville,MasterCard,0
+71097b86-db0f-4306-82be-950fba10b371,2025-04-05 22:08:19,782.6,Turner-Perez,Clothing,Garciaburgh,Amex,0
+03b1c85a-2e9d-451b-ac5c-747cc4432dfa,2025-02-09 14:46:27,98.07,"Martinez, Long and Cordova",Entertainment,Mannington,Amex,0
+ddf8b11a-ebfb-430c-81d2-7565275b14c8,2025-02-21 02:14:35,223.21,"Morales, Kent and Braun",Clothing,Bradbury,MasterCard,0
+601b92a8-1673-465b-aed9-1759f40bb1d2,2025-02-26 12:18:56,26.84,Johnston LLC,Tech,Port Stephaniefurt,Amex,0
+3686f930-cfc5-4892-af0a-af6080db5fb5,2025-03-10 14:05:18,677.93,Reese-Turner,Tech,Michellefort,Visa,0
+d27decd5-68a6-423e-8610-4ddc3f80446c,2025-03-15 14:31:04,972.32,Mitchell-Rodriguez,Entertainment,South Stacie,Amex,0
+b62c3696-b50b-4cef-8312-076af8772b6b,2025-01-16 09:11:59,239.45,Phillips-Robinson,Clothing,Lake Trevortown,Visa,0
+a583446a-91b1-4463-b61d-2487a4beaade,2025-02-15 03:53:50,638.31,"Schwartz, Avila and Little",Food,Brianport,Visa,0
+574a7385-4af4-47d9-bbb4-d9d736e00d6b,2025-02-09 06:02:13,423.58,Ibarra-Phillips,Entertainment,East Susan,Amex,0
+2149b311-d95c-472b-b43c-3f62a10a18ff,2025-01-08 11:21:27,615.31,Davis LLC,Food,Goldenhaven,Visa,0
+2ab1736b-6ead-4da9-b306-e23a7b9b0cf9,2025-01-18 08:15:48,428.95,Boyd Inc,Travel,New Brittany,Visa,0
+8a8b317e-1ed9-4873-afc7-20ef7fb27fc3,2025-03-01 23:06:13,669.31,Owens Group,Tech,Jacobsonberg,Amex,0
+e4076479-d88d-4bfb-928f-0d0d33885077,2025-02-25 13:54:15,85.87,Wilson Ltd,Food,Gordontown,Visa,0
+ee498480-fd3f-4462-a7ad-8f41b5f6213a,2025-01-12 13:43:44,352.2,"Elliott, Anderson and Nelson",Food,Braunfort,Amex,0
+b0fc825b-42d0-4c4b-ba49-6197bdc86e66,2025-03-13 10:24:19,829.99,Grimes-Brown,Health,New Lindsay,Visa,0
+f2ab0a8e-a087-4a38-9b25-93feb74806ab,2025-02-08 13:50:49,637.48,Rodriguez-Walsh,Travel,Riosborough,Visa,0
+e648a12a-dcf7-451a-a063-f28346f2544f,2025-04-02 23:23:37,394.51,Reese Group,Travel,Fredericktown,Amex,0
+6449204e-d2a0-408d-8c62-9e10e57411ea,2025-01-19 11:21:10,221.22,Arellano-Caldwell,Health,Bethbury,MasterCard,0
+985535d1-9374-4e8d-bd85-11344fcff311,2025-03-04 02:48:45,673.09,"Crawford, Carney and Francis",Travel,New Katherine,Amex,0
+89534b8f-0656-4471-b50a-ca9fcfe60552,2025-01-24 07:15:53,605.82,Rice Group,Food,New Tammyberg,Amex,0
+ff7dbb5a-bfcb-476a-bcc1-76de5bdb197d,2025-01-08 21:05:50,355.65,"Diaz, Burns and Torres",Entertainment,Christopherborough,Amex,1
+1b005ae1-9579-47ed-b337-63dc452397ec,2025-03-27 01:00:01,102.8,Freeman Group,Travel,Floresberg,Amex,0
+0eb72456-ac53-4bec-892e-4720ff5af02b,2025-03-08 00:45:07,786.63,"Garner, Perez and Moreno",Health,Lake Julie,Amex,0
+485c2e67-bbda-4bc8-adc7-ee64fefa3159,2025-02-20 07:54:43,173.48,"Sutton, Gilmore and Brown",Entertainment,New Paul,MasterCard,0
+d3c21782-931b-4b3d-8440-b9826be711c1,2025-02-18 19:21:30,61.55,Hill and Sons,Entertainment,East Claytonfurt,MasterCard,0
+fd141c17-a1ef-4487-9f2d-42a192acf567,2025-01-27 17:54:56,325.06,"Richards, Harris and Mendez",Health,Solismouth,Amex,0
+15c0c84a-26aa-4e40-9a4b-3751af9b6988,2025-01-22 01:43:12,749.28,Ramirez LLC,Food,Smithmouth,MasterCard,0
+ae350a81-0364-472e-b169-7b25628b00cf,2025-03-01 07:35:40,275.75,Lee-Mcbride,Tech,Jasonville,Visa,0
+c3829bc0-7281-40f5-82ad-741a9b7794b7,2025-02-17 12:25:53,457.53,Murphy-Berger,Health,Bonnieburgh,Amex,0
+8a293571-62f5-401f-80bc-eaefd32fd07b,2025-03-08 11:14:38,190.71,"Mitchell, Allen and Hall",Tech,Andrewsburgh,Visa,0
+37c67d5b-f213-4e47-bca9-28e18e603a7c,2025-04-04 05:07:26,533.94,Mcdonald Inc,Health,New Amystad,Amex,0
+c7aef6c4-35e1-4449-8a76-0394ae04c5bc,2025-01-12 01:32:26,153.84,Willis and Sons,Tech,Nelsonport,Amex,0
+e443c3b8-87ef-4846-a23d-0189cfff7e03,2025-02-13 13:08:27,61.9,Harris PLC,Health,Whiteview,Amex,0
+cc3f1c24-6e64-4c06-a4db-1a1cf8251ae7,2025-02-05 15:00:21,513.57,Johnson Inc,Entertainment,New Johnny,Amex,0
+c282ae92-7d5a-41e3-85c6-a2cdeda41256,2025-01-05 00:42:25,243.96,Pollard-Mack,Entertainment,Davidshire,Visa,1
+ed965761-c32b-4ac4-b4a6-505ee3875677,2025-02-28 14:12:49,953.55,"Logan, Bradley and White",Health,Jillianport,Visa,0
+327a23ce-ea30-42cd-b669-56422a96e699,2025-01-11 21:25:37,208.13,Johnson-Schultz,Travel,Bettyland,Amex,0
+2bccb022-27d5-4b91-b038-f9eac05ae2d1,2025-04-05 15:42:25,999.37,Ramirez PLC,Clothing,Norrismouth,Visa,0
+4da219cd-a3f5-41c7-bdad-a8146a8a1bc6,2025-02-24 03:11:55,368.18,Walton-Ball,Tech,South Robertfort,Visa,0
+c5526047-6022-4276-be23-660fa65ad05e,2025-01-22 18:50:28,294.94,Lee and Sons,Clothing,West Justinberg,Amex,0
+07af6d73-a155-420d-bf72-7554afe10cf4,2025-03-24 08:09:37,531.64,Ellis and Sons,Health,Lake Bonnieborough,Amex,0
+8b03598e-145b-4aae-ba4b-13573f9ba1eb,2025-03-21 01:56:47,134.8,Roberts-Sloan,Travel,Millerfurt,Amex,0
+cb576217-3886-49f2-b029-8a12b391bb15,2025-01-21 06:24:51,949.18,"Johnson, Ferguson and Stewart",Food,Yangburgh,Visa,0
+fe522c8a-28e9-419b-94a4-b465f13edc99,2025-02-04 17:25:49,940.42,Lucas-Jennings,Entertainment,Gracechester,Amex,0
+6c427079-705b-4177-9cd0-221818c3d945,2025-01-26 16:44:23,576.67,Dean Ltd,Tech,North William,MasterCard,0
+8181fc27-405b-482a-a163-e52d8fd51f9e,2025-01-20 23:45:15,331.91,Cole-Joseph,Food,West Luis,MasterCard,0
+7f1c2ecd-f511-4d34-975e-ade88dbe8855,2025-02-21 06:45:16,389.47,"Decker, Fleming and Cox",Entertainment,Campbellville,Amex,0
+e9369e6e-9c87-4222-920f-ec26c6c2a674,2025-02-21 05:32:18,478.89,Hill-Sheppard,Clothing,West Jamesland,MasterCard,0
+2e951ec7-8bcd-4fa6-916b-b833b9a2ac8f,2025-03-27 05:14:56,639.79,Martin-Johnston,Food,Mollyberg,Amex,0
+62a93199-784d-4529-9b8b-5c132997aee8,2025-01-19 11:55:06,60.92,"Rios, Stephens and Ford",Health,North Donna,Amex,0
+3a00e9c0-0486-4b8e-b8b9-da730bf6bf97,2025-01-05 23:08:53,653.24,"Reeves, Rodriguez and Norris",Clothing,Joshuaburgh,MasterCard,0
+0a55af2e-b0cb-425d-9395-b494503e833b,2025-02-13 04:29:16,128.16,Hughes Ltd,Clothing,East Donaldbury,Amex,0
+84a83879-9434-474c-b274-6e6a39331720,2025-01-06 12:15:57,546.04,Banks-Tran,Travel,Aliciaside,Amex,0
+fc4db945-02af-4c16-ae7f-edf380f9f69c,2025-02-13 18:02:30,552.49,Perkins-Brown,Entertainment,North Craigchester,Amex,0
+eea0a6de-c92e-4bf0-b1c4-41090a3efcae,2025-01-31 15:35:34,868.22,"Wilson, Morris and Roberts",Entertainment,Corybury,Visa,0
+fe048c63-616b-4285-a7a6-4dc312056c4a,2025-03-08 02:40:25,160.83,Gilbert-Sandoval,Food,Johnathanburgh,Visa,0
+84aae639-b65e-4999-95d7-238e15421b3f,2025-03-20 14:34:43,579.34,Morales PLC,Food,North Lesliestad,Amex,0
+f0d4b1d7-8396-4f47-b823-223455564c23,2025-04-06 07:58:55,159.0,Green Ltd,Food,Franklinfurt,Amex,0
+209ed797-846f-4b0f-be86-d284f31d28a6,2025-02-17 18:17:14,762.2,Gregory-Nichols,Health,Carmenland,Visa,0
+6c26539e-7f78-49b8-a238-b1fe37eb44f9,2025-03-11 18:37:35,968.95,"Ryan, Johnson and Brown",Travel,Jimenezfurt,Visa,1
+2f0f2d2a-3537-41e9-b416-afef124a5f76,2025-01-22 18:44:59,564.35,Eaton-Mcdonald,Health,East Williamland,MasterCard,0
+133c2edc-5f95-43df-9dbc-cd009a4010ea,2025-01-17 06:17:45,611.34,Mitchell-Levy,Entertainment,South Grace,MasterCard,0
+89f66e2f-bdb1-4a1f-aec9-fb71a402982d,2025-02-27 05:39:53,749.73,Marsh and Sons,Tech,Williamsland,Visa,0
+7729bc04-400b-4d11-a0a4-9bb457cc43b0,2025-03-15 22:33:29,583.76,Hester Group,Food,Deborahtown,Visa,0
+c4876171-af22-40f1-8d79-786e0262b72c,2025-01-04 01:17:08,19.21,"Davis, Farley and Roman",Travel,Colemanborough,Visa,0
+aeec4b5d-c472-48d7-b0ad-69a4bb127949,2025-02-19 23:42:28,980.79,"Dunn, Peterson and Martin",Tech,Charlesburgh,Amex,0
+ee4c2884-9970-4a8e-9a76-4e275662c798,2025-04-01 22:38:00,75.99,"Rhodes, Brooks and Jacobs",Food,West Lisa,MasterCard,0
+b0d8ca7c-8125-407d-866f-8e45ac352876,2025-02-07 17:13:15,461.99,Guerrero Ltd,Food,Tamaraville,Amex,0
+627bf010-3694-4601-94f9-80a90d3c9902,2025-03-14 12:59:28,187.13,Williams Inc,Entertainment,Katherinehaven,MasterCard,0
+2f3bca01-fdd3-4b5c-aa43-da45de12f5fd,2025-01-31 09:59:15,839.23,"Cunningham, Bryant and Bell",Food,Port Paulport,Amex,1
+363ec84a-061f-43e5-bb9c-675e1fec16dd,2025-01-25 05:28:07,752.26,Williams-Perry,Clothing,Williamchester,MasterCard,0
+84dfe33f-c62d-4dbc-bb6f-e6bef318ead8,2025-02-18 20:45:55,977.5,Vasquez LLC,Food,Tuckerview,Amex,1
+c12683d9-afa5-4013-af13-05e2da100d44,2025-01-08 07:21:44,305.35,"Nunez, Knight and Cameron",Clothing,North Jonathanborough,MasterCard,1
+21144c4a-2d69-4460-afa1-0ddba523a97c,2025-04-01 15:34:21,940.35,"Moore, Brown and Vargas",Food,East Stephanie,Amex,0
+fbdea37e-b6a7-4804-9b03-63f2601e6961,2025-01-07 10:25:51,335.31,Salazar Group,Travel,Lake Stephen,Visa,0
+a7606b81-e688-4190-aeb4-87bfa74ccb77,2025-03-01 14:44:18,957.28,Thompson and Sons,Health,Michaelbury,Visa,0
+3a44fe4c-9cf2-4fc5-8c1a-41a106d42621,2025-04-05 15:15:30,903.52,"Adams, Meyer and Schultz",Food,North Marissa,MasterCard,0
+e07b2690-050d-4adc-b0ee-8723a3ef486b,2025-04-04 10:21:24,846.09,Gibbs Group,Travel,Lake Tonyafurt,Visa,0
+c0e5f538-befe-4d60-b1e4-86f3ad9cd1c7,2025-04-04 09:56:29,424.7,Austin-Martinez,Clothing,Lake Jessica,Visa,0
+a24fe58b-c874-4f84-a39e-0c86995c7a49,2025-02-08 15:28:09,354.24,"Knox, Nguyen and Barnes",Entertainment,Danielsberg,MasterCard,0
+db9004db-816e-40bc-96be-9a4bcae159fe,2025-01-27 17:42:04,248.67,Miller LLC,Food,Wileymouth,Visa,0
+b0418999-7981-48ea-a1b6-a1da59449669,2025-01-20 11:15:20,736.73,"Bates, Petty and Wright",Entertainment,New Vincenttown,Amex,0
+731d4d07-b3c0-489a-b901-7807a170c7dd,2025-01-16 19:55:56,549.26,"Hansen, Avery and Martin",Entertainment,West Jessicaberg,Amex,0
+bd96c0f6-06a1-4063-a866-89293d685c80,2025-03-26 08:58:36,384.2,"Brown, Turner and Tucker",Health,South Tonya,Amex,0
+8cf57fee-e1c5-4e2a-a87c-ccbf9e0f6ece,2025-01-29 09:29:58,8.68,Davila-Estes,Travel,Jonesfort,Visa,0
+87d2387b-a41f-4a27-83b5-e9af2a5d0a47,2025-04-05 08:17:48,432.44,Gutierrez LLC,Entertainment,Noahville,Amex,0
+3ed0f09b-697d-4d6b-a016-06ae3d5c3fc1,2025-01-09 12:05:25,442.29,"Middleton, Bryan and Wolfe",Travel,Port Jenniferton,Amex,0
+c90fb023-052c-4737-8801-d3998f8ba91d,2025-01-19 05:28:02,908.6,Graham Inc,Travel,North Jonathan,Amex,0
+57120d11-bf98-474c-991d-b1f4af92b5c3,2025-01-19 22:00:22,864.38,Wells-Figueroa,Entertainment,Lake Jeffreybury,MasterCard,0
+a60e96be-29fa-470c-a706-3fab7d6afaa8,2025-03-06 05:40:28,302.89,Smith Inc,Clothing,New Jenniferfurt,Visa,0
+264042af-a12b-4086-a320-94b4eac45763,2025-01-26 09:08:02,748.23,Nunez-Petersen,Food,Port Peterville,Visa,0
+92ee092a-a8a7-4ca8-9788-b964f3dd8bd1,2025-03-13 14:51:55,763.32,Parker and Sons,Health,Phillipside,Visa,0
+70737b6a-a72f-4449-97ff-487481bb420a,2025-03-04 20:13:00,467.56,"Kemp, Perez and Smith",Entertainment,New Christopher,Visa,0
+fee19c9b-fc38-4b58-8a88-64360e1e3dc0,2025-01-18 10:35:29,313.21,Barton Group,Travel,Christopherburgh,MasterCard,0
+84b42286-2405-4fcf-af26-175a294ee0ac,2025-02-19 19:37:25,275.21,Hughes-Mills,Health,Port Justinchester,Amex,0
+a147ca2f-33f1-42a1-9365-55a1a7273b2e,2025-03-28 05:42:08,100.26,Rodriguez-Peterson,Entertainment,Lake Victoria,MasterCard,0
+60a1bbaf-28d1-47cd-a970-f571cf02b41b,2025-03-24 07:31:38,848.82,"Harris, Weber and Alexander",Entertainment,South Lindseybury,MasterCard,0
+d78c9fd7-2ea5-460c-8572-3359efc3a9a4,2025-04-04 21:08:05,185.18,Allen-Howell,Food,North Timothy,MasterCard,0
+9a2c2725-5115-4952-bde8-5611f1fdf402,2025-01-17 03:35:04,956.73,"Gates, Barber and Johnson",Clothing,Lake Christie,Amex,0
+8db9f783-06ef-410a-b102-ba72a7c6668f,2025-03-18 12:25:14,184.86,"Morris, Chen and Tran",Health,North Ricky,Amex,0
+cff56882-066c-47ae-862d-d921782f6f61,2025-03-24 12:47:42,625.41,Grant Inc,Health,East Lisa,Amex,1
+00be6376-39ab-4609-acde-18e9da959af1,2025-03-18 03:18:00,449.09,"Chen, Armstrong and Davis",Clothing,Donnaberg,MasterCard,0
+605148fe-b3b0-44d1-ac82-9df4256b618b,2025-03-06 11:22:06,724.49,Meadows PLC,Clothing,Mendozatown,Amex,0
+84911ee9-8e6f-49bf-8922-902bc7b78a42,2025-02-06 12:26:16,290.38,Simpson-Lee,Travel,Hectortown,MasterCard,0
+ffde159c-1223-4590-8000-b3b050c46b3f,2025-04-04 10:43:42,933.09,Mathews Group,Entertainment,Bennettside,MasterCard,0
+69c01dc2-9d09-439d-8874-85f529328091,2025-03-24 14:03:35,408.58,"Garcia, Oneal and Lynn",Tech,Wardside,Visa,0
+ae577ceb-1bbe-445e-b02f-82b4c495b990,2025-02-11 11:20:16,728.82,Garcia LLC,Travel,New Todd,MasterCard,0
+4d38892c-c6e2-4a0a-8cde-8ebaf2a23f93,2025-03-13 12:07:56,448.73,Harris-Chapman,Food,New Emily,Visa,0
+9508d845-f132-4a87-8f46-e888a0184131,2025-01-04 04:37:19,25.76,Delgado-Maddox,Entertainment,Laurachester,MasterCard,0
+d2717a3b-777a-405c-a984-92031e57493c,2025-02-04 01:17:17,562.26,Stewart-George,Travel,Mcdanielland,Amex,0
+4a110fac-65f6-4f66-a394-55dfe8c56e29,2025-01-17 05:34:50,42.79,"Adams, Friedman and Vasquez",Travel,Theresabury,Visa,0
+ee17f867-b6fc-4df2-8028-e9d290fc99b8,2025-01-13 15:31:11,823.52,Jones Group,Food,Lake Meredith,Visa,0
+00163883-a88d-47bd-b5ad-6ddf2622ff5c,2025-04-06 15:11:58,775.92,"Jones, Buck and Anderson",Clothing,New Chelseaburgh,MasterCard,0
+7a3eebf4-f964-4d8c-bc5e-8827a6815e04,2025-03-28 08:31:35,191.59,Bailey PLC,Clothing,New Davidburgh,MasterCard,0
+d8ed3cb1-e617-4d67-a546-7b9d73586056,2025-02-01 07:10:14,408.71,Dominguez Ltd,Travel,Davidborough,Visa,0
+dc79d50f-f700-45c1-9985-760f99396a3d,2025-01-22 17:00:15,160.04,Jones PLC,Entertainment,New John,Visa,0
+0b773999-0a7b-4e3a-8232-50d92cd2f043,2025-03-12 13:42:38,158.28,Wiggins-Barnett,Health,Nguyenland,Visa,0
+c1d09a85-4995-4edd-bae1-80aba8970c25,2025-02-15 10:37:06,70.09,Johnson-Kennedy,Clothing,Lake Kellyton,Amex,1
+9ffa6538-3774-47c8-ae57-de89712a5bab,2025-03-21 14:55:05,635.66,Martin-Jefferson,Health,Port Jason,MasterCard,0
+d581b343-98a6-4e29-a350-e1b8c3bc1939,2025-02-11 18:48:28,872.85,"Bishop, Butler and Thompson",Health,Erichaven,MasterCard,0
+a3fba906-1a8c-4c3e-8138-fe9d852d5b55,2025-03-13 21:59:20,568.39,Wilson-George,Food,Fernandezmouth,MasterCard,0
+da7601fd-eb05-4d47-a247-269ec5eb53bd,2025-03-02 07:41:15,661.52,Johnson-Duncan,Tech,North Jasmine,MasterCard,0
+01f0458f-f3be-4e7e-8283-f1013b7ad60d,2025-01-24 11:25:59,262.29,Foster Inc,Travel,North Tammy,Amex,0
+8fde0540-7c0f-4375-8f96-2a6dae4d8d3c,2025-01-24 15:31:43,138.35,Davis-Thompson,Entertainment,Erichaven,Visa,1
+be0277af-ded3-4650-86d7-8aaee657fe5a,2025-03-11 13:12:59,832.31,Hodge-Wade,Clothing,Ronaldshire,Amex,0
+ca59afb8-55a2-4c93-ad55-5c9c66cf6c68,2025-02-13 00:09:02,87.65,Byrd Group,Entertainment,Rosalestown,Visa,0
+d3bac5fb-a057-44c2-a2ca-a8813e43d78b,2025-03-28 07:30:10,583.16,Mann-Wilson,Tech,Michaeltown,MasterCard,0
+1d53320c-9c3d-4878-9206-7a8ac1aeba9b,2025-03-02 09:45:49,322.29,Wilkinson-Walter,Travel,South Robertberg,MasterCard,0
+6c79bb9c-4f55-469e-8cf2-dfb708d3f7d0,2025-03-12 15:27:48,100.13,"Ellis, Acosta and Rowland",Tech,Allisonton,Amex,0
+577edbac-e685-4e1d-a637-0d931e651db1,2025-03-04 08:43:18,774.69,Welch and Sons,Entertainment,Houstonshire,Amex,0
+b3311646-8de4-47c6-97f3-7909e71e8447,2025-03-27 05:55:40,643.67,Gutierrez PLC,Entertainment,South Juantown,MasterCard,0
+430d7755-0338-4081-9192-8c79d1445c3a,2025-04-06 05:32:58,905.4,"Gomez, Reyes and Parks",Tech,Lake Kennethland,MasterCard,0
+e7bad67b-fbe2-4c99-882e-287b85c3ed15,2025-02-16 00:56:44,475.81,"Simmons, Stevenson and Walker",Health,Priceton,Visa,0
+7e0e9bd2-2062-40c4-8a4b-2a2aadeb86f8,2025-03-15 07:20:43,204.69,Henderson PLC,Health,Flemingville,Amex,0
+525bd55e-dc97-428f-83bc-7e408231b9d3,2025-02-02 07:24:06,521.58,"Dillon, Cook and Gray",Entertainment,Mayville,MasterCard,1
+9fc68aa3-4052-4e43-8678-c7ad98b252e2,2025-01-15 23:19:58,24.64,Moran-Vargas,Tech,Blackshire,MasterCard,0
+8dd40dcb-08c3-4aa1-be46-c18978a2d266,2025-03-23 12:31:07,79.85,"Powers, Arnold and Roy",Health,Port Dustinland,Visa,0
+6037d4e3-3629-4afb-aec9-7858ee7a210c,2025-02-16 20:30:27,793.94,"Padilla, Howard and Khan",Entertainment,North Stevenchester,Visa,0
+19d467f1-c822-48de-b7c3-2bbf9486dba0,2025-03-02 19:40:10,15.85,Thompson-Ashley,Tech,Lake Markmouth,Amex,0
+ec793ca3-d749-4a23-b3b1-9d874ecdedbd,2025-03-12 12:52:47,948.87,Smith-Banks,Travel,Shannonview,MasterCard,0
+bf0daa7f-af44-45c7-abc4-11adffce60a9,2025-01-29 11:45:55,332.59,Johnson Inc,Food,Anthonyfurt,MasterCard,0
+7dcf0a77-a708-4e13-bcc2-db8f167000fc,2025-01-10 05:28:19,757.59,"Welch, Morris and Bradley",Entertainment,Stacyview,Visa,0
+d0582435-fce9-4856-a7ec-655dc5e8ef95,2025-02-21 11:29:17,859.48,"Morrison, Ali and Clark",Clothing,Courtneyshire,MasterCard,0
+13fe7625-14df-4e56-a62e-dceb0e21760a,2025-03-22 22:08:46,933.82,"Dean, Manning and Rivera",Entertainment,Kimshire,MasterCard,0
+3ec784bc-526a-4ed4-bd97-acf5721f4700,2025-02-02 05:08:01,210.44,"Davis, Thomas and Cooke",Travel,Lake Amyville,Amex,1
+73fe0f08-eac3-4544-b51f-ea6aa871da43,2025-01-28 09:42:45,795.14,Poole and Sons,Food,Port Christopher,MasterCard,1
+6fd49918-b7ef-422e-baab-6bdab6753c66,2025-03-20 23:04:26,328.03,Frank-Bush,Clothing,Hartshire,MasterCard,0
+b088e54b-f062-4312-88f6-0138e8e49ced,2025-03-22 10:09:15,465.41,Mercer-Jackson,Entertainment,Schwartzhaven,Amex,0
+e45a79dc-2bb1-44e3-be76-716b84328deb,2025-03-06 07:10:39,427.77,Wright-Ford,Clothing,Victoriastad,Visa,0
+7bf8992d-73ad-4bd6-aa4a-c051ecd5b743,2025-03-04 14:11:52,712.69,King LLC,Clothing,North Melissa,Visa,0
+700ae200-3b25-49fe-8ab7-7ba7eb6bb4f8,2025-01-14 01:25:29,379.59,Mack Ltd,Clothing,Perezmouth,MasterCard,0
+cbe80269-c26c-4280-88d4-30a7ae632053,2025-03-07 22:17:05,209.68,Jacobs-Villanueva,Travel,Coxborough,MasterCard,0
+e943311a-37e6-4ac8-aac7-657dd7e9f8e6,2025-03-15 14:28:40,302.97,Blanchard-Carroll,Entertainment,Port Brittany,Amex,0
+a08e710c-f430-41c0-8bd4-258bbc71e6ea,2025-01-24 07:31:38,806.36,Orozco and Sons,Tech,Nelsonburgh,Visa,1
+cd9895c1-65e7-4c94-9b8c-42bd7ea1e46d,2025-01-11 06:57:50,582.88,Becker Inc,Health,Port Jorge,Visa,0
+f10a319b-7d2d-473c-9dd6-050477ca943d,2025-02-20 07:08:46,914.83,Chambers-Graves,Health,Michaelmouth,MasterCard,0
+bf9a13cc-31d2-452f-b18d-6e56ac2dc46f,2025-03-16 01:41:04,555.62,"Baker, Evans and Davis",Tech,West Jasmineview,Amex,0
+2875b437-3009-4486-8519-2c3a867bc1c2,2025-03-28 17:01:16,138.14,Hooper-Castro,Health,Gabrielchester,Amex,0
+f79d569f-eace-4654-8376-efe9cc5911a7,2025-03-24 04:46:12,309.98,Thomas-Hurst,Entertainment,West Amy,Amex,0
+b9ebdc75-8911-41fd-8cd5-c469a25aa24e,2025-01-11 02:46:38,772.22,Bradshaw Group,Entertainment,East Leslieview,Amex,0
+99704a00-24bd-4d46-bb03-ddcd356d3f78,2025-03-03 22:17:00,140.82,Wolf and Sons,Health,Harrisburgh,MasterCard,0
+224683d0-19be-4716-ba2a-55dcfce75d77,2025-02-24 19:47:20,278.0,Patrick LLC,Tech,Rickyborough,Visa,0
+e51984df-de64-4795-b156-36848ca35c09,2025-01-22 11:48:20,669.79,Mccarthy-Smith,Health,Smithbury,Visa,0
+feea60de-8475-4e8c-80da-dab834639747,2025-03-12 08:42:30,670.79,Davis and Sons,Health,North Soniaton,MasterCard,0
+6fac61cc-42f1-485e-a50a-fd60bda5c949,2025-03-23 22:36:43,149.19,Davis PLC,Tech,Port Matthewmouth,MasterCard,0
+98552236-e1c2-4a72-8395-8001278f48c4,2025-04-06 06:14:16,584.12,"Kaufman, Morton and Harrison",Entertainment,Lake Ronnie,Amex,0
+b84226f5-6c25-4e4f-bb9f-aaed6367cd10,2025-03-28 11:40:40,382.24,Cardenas-Mitchell,Clothing,Andrestad,Amex,0
+f58b90e4-c0c0-4ccc-a6d2-f73b88093731,2025-01-08 13:54:40,101.44,Contreras-Martin,Tech,Moorehaven,Visa,0
+cc4cc435-f14c-457e-bc37-24725a9b43fe,2025-02-02 13:32:45,559.36,Boyd and Sons,Entertainment,Lake Lauren,MasterCard,0
+045d6860-ffb9-4d62-aaf3-6f21e8bc76ac,2025-03-06 15:18:49,10.39,Acevedo-Vance,Clothing,East John,MasterCard,0
+df3b617a-dd97-4277-b9be-94a76010f8da,2025-03-26 18:51:09,813.37,Robertson LLC,Entertainment,Perezview,Amex,0
+4a2c9bfa-dd16-4bf7-b417-2bc8bf00f8b6,2025-03-26 22:55:46,469.93,Turner LLC,Clothing,Adamstown,MasterCard,0
+88665947-e639-46e8-b177-ae213e1d4903,2025-03-26 00:19:55,957.06,Murphy-Gray,Food,Ruizside,Visa,0
+6f95c7f0-788a-4cb7-bd79-b14a8c244985,2025-01-23 20:42:45,54.2,Evans-Cline,Health,Vickihaven,MasterCard,0
+90664f02-62c7-4deb-b8b2-be2693985dfe,2025-02-15 14:32:51,931.82,"Hart, Rogers and Roberts",Food,Port Courtneyburgh,Visa,0
+5c0cd24b-086b-4882-9b20-c7ec7f81e544,2025-01-19 15:08:10,141.0,Morrison and Sons,Travel,North Katherineburgh,Visa,0
+57b62f9b-30c6-43ad-8a4e-3edd3ecfba20,2025-04-04 04:11:18,192.81,Boyle-Rogers,Tech,Port Anthony,Visa,0
+00c68fc8-2cb1-4988-92ca-e6afb686628a,2025-02-05 14:28:20,862.25,Harris-Bryan,Health,New Angelamouth,MasterCard,0
+66cda706-52f8-4ce8-bde0-dd664b10c6f4,2025-01-19 23:47:09,876.87,"Gray, Rivera and Wilson",Food,Lake Ryan,MasterCard,0
+05a7b978-df50-4371-af4f-5d6f5a8262be,2025-01-07 01:13:05,15.07,"Mason, Lindsey and Barry",Travel,Coxland,MasterCard,0
+34fadfcc-96ed-42eb-8e07-1122b1c39e6d,2025-02-16 19:23:03,560.93,"Nelson, Estrada and Garcia",Entertainment,Christopherbury,MasterCard,0
+e5e0e2fe-0d93-43c5-92d0-9f5ac81fbf92,2025-01-04 02:58:28,481.11,Simmons-Montgomery,Travel,Watsonborough,Amex,0
+b600e2f8-22c4-4e4b-8e30-405f2a3c4f61,2025-02-23 15:41:28,603.32,"White, Williams and Cowan",Food,Thompsonside,Visa,0
+918b324a-3db8-4c82-8221-d51413507f9a,2025-01-01 05:17:02,94.29,English LLC,Tech,East Anneton,Amex,0
+7808799a-5a98-4a40-8bc0-02569f7a1558,2025-02-01 06:57:52,963.82,Bass Inc,Travel,Curtismouth,MasterCard,0
+8f4f2e0a-2a55-4bb8-acfb-0a495f9d9d00,2025-01-21 11:55:51,463.54,Clark-Romero,Entertainment,New Lindsey,Amex,0
+2fc4321f-b99b-4da6-86e2-55448d1e30d6,2025-03-01 12:43:21,592.51,Hall and Sons,Entertainment,Kennedyberg,Visa,0
+e1cf0cfb-4cc1-43c4-b150-18f97f7a9ef2,2025-01-21 01:35:46,119.33,Olson-Rice,Clothing,North Kathleenmouth,Amex,0
+2ce9ff08-8f0c-42f8-aca9-88d1a2267fbd,2025-01-10 15:31:13,655.78,"Griffin, Johnson and Murphy",Clothing,North Robert,Amex,0
+a85a7ef1-4396-4b04-90e9-17c3f2908d51,2025-01-14 09:30:39,72.34,Castro Inc,Tech,Turnerfort,MasterCard,0
+75045e4d-9a44-423b-955f-81d7349ec339,2025-02-11 20:46:31,168.62,"Miller, Lloyd and Vasquez",Health,East Janetland,Amex,0
+4c2ef0a4-6247-4d8d-a0e2-153d7335b34e,2025-01-08 04:34:18,652.65,James Inc,Tech,New Hollyfurt,Amex,0
+ea078f54-7d4f-41ba-87e5-852e1fc8c096,2025-01-19 16:43:56,268.47,"Brown, Wells and Giles",Tech,Baileyview,Amex,0
+838bea8e-d616-4abf-8c06-77d7f613dd64,2025-01-13 17:15:41,873.13,"Benjamin, Durham and Walker",Food,Stevenhaven,Amex,0
+a95e3607-ef4a-4097-b0e3-d03f6a3fe9ab,2025-01-28 04:54:42,808.21,Smith Ltd,Health,Stephenland,Visa,0
+7e1ab030-bac6-46a6-a75f-5221c8dae7c9,2025-02-06 11:37:25,664.19,"Michael, Rodriguez and Henson",Health,East Cristian,MasterCard,0
+b260cc2c-51e5-4ff4-ba17-545f98683185,2025-01-01 13:10:05,767.58,"Thomas, Cook and Buck",Travel,North Christopherborough,MasterCard,0
+f5c9832b-ad80-4634-8c7f-4ec4e0aa67fe,2025-03-08 05:42:57,531.03,Miller-Green,Clothing,Ricestad,Amex,0
+8e0ebd29-2eb5-4e98-824e-df72fef50be5,2025-01-27 07:06:06,661.01,"Hopkins, Hill and Smith",Food,Judithland,Amex,1
+17562dd7-6cab-49f3-8b39-c442beeae885,2025-02-06 14:36:54,479.53,"Butler, Bailey and White",Tech,Raventon,MasterCard,1
+09b2e745-7e4f-40ff-9406-eb6e1680838a,2025-04-04 05:04:03,380.83,Anderson-Schneider,Entertainment,West Michael,Visa,0
+b02e174c-e808-4b4b-a31d-599e6d29db23,2025-03-31 17:13:49,467.01,"Cunningham, Wilson and Solis",Travel,West Clairefort,MasterCard,0
+9e9f6c6f-8070-4edf-9bfe-3e31cdfc2df1,2025-02-14 11:12:46,419.71,Blake-Salazar,Entertainment,Hillland,Amex,0
+476ad5b4-6cba-4c95-9a9b-29971d7e4be3,2025-02-04 09:19:30,436.78,Humphrey-Rodriguez,Clothing,Cindyton,Visa,0
+297872c0-a77b-4d27-ae74-8455c1ebcd36,2025-01-22 02:52:44,612.34,Reed-Long,Food,East Lauraport,Visa,0
+0de27996-d423-4748-9568-15f3fe501953,2025-01-20 20:27:06,77.3,Juarez-Johnson,Entertainment,Amandahaven,Visa,0
+45e9ed88-101c-4d94-a340-17ec012323a6,2025-01-16 13:37:06,462.22,Rodriguez-Black,Travel,Murrayborough,MasterCard,0
+0b01940e-956e-467e-a2b0-93991676c4f8,2025-03-13 12:53:14,579.99,"Williams, Jones and Larson",Entertainment,South Lori,Visa,0
+ee1ddb67-fdaa-45ff-896d-c99af2a2d77f,2025-03-10 09:14:00,63.2,Rodriguez-Taylor,Clothing,South Lydiamouth,MasterCard,0
+1dd89d2d-f6f0-4d1b-97e9-3bdcec7277d9,2025-02-05 04:04:22,383.16,Leon PLC,Food,Amyhaven,MasterCard,0
+3ac7be91-a34c-4bba-88ed-3e6431626d1e,2025-03-28 14:44:40,678.81,Baker-Herrera,Clothing,South Kirstenborough,Amex,0
+b0a17cdf-79e1-49e1-bea6-f22ec9606a35,2025-01-21 08:30:31,809.62,"Garza, Short and Johnson",Food,Lake Antonio,Visa,0
+95bfc719-039f-4c53-ad9f-af9ff5215b3b,2025-01-20 19:43:28,796.35,Mccoy LLC,Travel,Port Katherine,MasterCard,0
+9c0b15b0-4b17-446a-b7bc-c7938898a49f,2025-02-09 01:01:40,599.35,"Davis, Salinas and Wood",Clothing,Briannachester,Visa,0
+64896f80-00b4-4b7c-9094-3ee5cdde75f0,2025-03-03 19:15:41,426.69,"Price, Frost and Ryan",Entertainment,Maryburgh,MasterCard,0
+15800b26-99f1-45f7-bb92-bb18cc9ed851,2025-02-28 11:53:42,729.88,Long-Sullivan,Travel,Johnville,MasterCard,0
+3740b038-099d-4c01-b693-0a3cadc2aae3,2025-03-18 07:30:21,623.01,"Curry, Jackson and Jones",Clothing,East Chelseaburgh,Amex,0
+14784cbc-39bb-44e3-b1f2-1c5dc7481556,2025-03-07 04:40:07,654.95,"Lynch, Ellis and Spears",Entertainment,West Joshua,MasterCard,0
+dfd6319a-d428-4b37-8de2-25e1341756b9,2025-02-25 15:04:01,328.93,Andersen-Miller,Food,North Ashleybury,MasterCard,0
+f98726ca-6820-4526-aa3d-71dc9b140018,2025-01-25 05:09:12,788.04,Camacho Inc,Entertainment,Lisaborough,Amex,0
+ed3efd65-800f-4400-aa3f-cfa245476219,2025-02-18 17:55:54,803.01,Jones-Watson,Entertainment,North Joshuamouth,MasterCard,0
+47503027-5975-48da-af23-1e73123ea998,2025-01-09 17:36:13,659.19,Thompson Group,Travel,West Josephfurt,Amex,0
+c0426970-a4be-4aaa-a4b2-09a67c07b75c,2025-03-16 15:25:18,809.23,Ball-Mullins,Tech,Port Kathy,Amex,0
+891ff452-e5dd-4125-a916-866a7a55a84d,2025-02-17 15:09:40,195.24,Kane Group,Entertainment,New Johnton,MasterCard,0
+8580c8be-0719-4148-9a66-b0090a6a5fa6,2025-02-07 14:44:20,550.45,"Myers, Lee and Sullivan",Travel,East Nicholas,MasterCard,0
+99547ff9-cc05-4a72-ac87-03e3057d1a9e,2025-03-11 16:31:31,841.77,"Hunter, Marsh and Smith",Clothing,West Ravenborough,MasterCard,1
+2b717fb7-2b28-4d29-8fa0-4ee1253fc09d,2025-03-16 00:22:14,873.41,Rose-Jones,Travel,Lake Benjaminfort,Visa,0
+a270bd6b-d8f7-44f1-938a-2789173a4ffc,2025-02-18 09:58:49,649.91,Powell-Smith,Tech,North Tonyview,Visa,0
+52e6dff0-e81f-4a51-a35c-034f03043d45,2025-04-01 15:10:18,395.87,Collier-Murray,Health,New Christyview,Visa,0
+de78b358-1b26-4b79-9260-67cfa8a65571,2025-01-22 00:48:46,553.15,Clayton and Sons,Food,Port John,Amex,1
+27f19ff5-62b3-4b40-b194-b662935b0ff1,2025-03-01 15:04:02,586.8,Norton and Sons,Tech,Ortizfurt,MasterCard,0
+36b9d6e5-d3f7-4cc9-9b46-e65c7a3031e0,2025-02-11 03:54:43,40.38,"King, Alvarez and King",Clothing,South Lindsayberg,Visa,0
+fd2a7bff-261f-4bdd-8657-14dbf2ece2bd,2025-01-25 15:49:13,225.31,"Gonzales, Smith and Martinez",Travel,Ronaldstad,Visa,0
+1164a8f1-f82f-44c2-bbe2-68019216e5b3,2025-04-06 02:17:26,305.89,Williams Group,Tech,New Nathaniel,Visa,0
+a4852b04-9460-494e-bbbd-e9c66f9e9b8d,2025-01-30 17:01:54,747.57,Richardson LLC,Travel,Gregoryborough,Visa,0
+bbb3f9d4-75be-4e60-8993-7dc94783ea5a,2025-02-20 02:55:37,663.11,Ayala-Arnold,Entertainment,South Cassandra,Amex,0
+858b3d2d-4cc6-4201-9385-18106e0df060,2025-04-01 02:31:19,397.24,Wallace-Keller,Tech,Padillaland,Amex,0
+6fcc56fe-fc4e-4b43-ad1a-9047ecb963da,2025-02-11 07:26:48,177.97,"Carter, Guzman and Mason",Entertainment,Stacyburgh,MasterCard,0
+4d4e4fec-2d62-4db2-a134-ead9d3bdb477,2025-01-31 21:44:14,351.79,Stone PLC,Health,Gibsonfort,MasterCard,0
+11640d3b-e493-4949-89c7-416417c12df0,2025-02-28 00:16:43,457.77,Keller Ltd,Tech,Emmafurt,Visa,0
+7363f0f5-11d8-4569-bba4-b2fe758fbcd6,2025-02-12 17:23:29,575.24,Gomez LLC,Entertainment,West Danielfort,MasterCard,0
+ebc3e57a-9d7f-4975-b2dc-e3c195feb42f,2025-01-24 01:33:43,815.19,"Jackson, Williams and Sanchez",Health,Weavermouth,MasterCard,0
+01061835-5ceb-4db6-9b86-c09cbf70c6e3,2025-04-05 23:32:10,204.39,Smith PLC,Entertainment,Ramosport,MasterCard,0
+aacfd17e-79d7-47e8-8779-cbf3f7226a83,2025-01-26 12:01:24,635.15,"Terrell, Bell and Cowan",Clothing,South Wyattville,Visa,0
+755bddc5-3f5d-4baf-b0b6-65f6b3333fe8,2025-02-19 06:31:11,279.65,Avila-Lopez,Clothing,Gonzalezburgh,Visa,0
+96ebdaf6-c0de-44d5-8dbe-8a6c3e866583,2025-01-05 01:34:38,505.9,"Maldonado, Jackson and Alexander",Travel,Jonesville,Visa,0
+177a0ff9-af19-42db-933b-60059e5e6f99,2025-02-24 12:51:12,466.78,Brown-Benjamin,Entertainment,South Charles,MasterCard,0
+a68bab71-723c-4c32-8d49-ff7178c63cff,2025-03-06 14:05:40,864.2,Owen-Hammond,Tech,Griffithmouth,MasterCard,0
+6ac2536a-abbd-418f-8e7d-fc88cd2c6ee6,2025-01-23 18:20:52,46.42,Fitzgerald LLC,Entertainment,Port Stephaniemouth,Amex,0
+315a1dbb-e554-4bf2-8a53-d0b10c3e6098,2025-01-22 06:25:00,969.03,Hall-Herrera,Tech,Herringfurt,Visa,0
+e09d6b73-8bd2-46a4-a2ac-161160b3afc9,2025-01-21 12:27:15,417.15,"Schroeder, Hale and Palmer",Entertainment,Theresastad,Amex,0
+fc65efed-a80a-437a-a057-33a07297c3ee,2025-02-02 12:31:39,801.35,Johnston Ltd,Entertainment,South Stephanie,MasterCard,0
+1a61b998-f8bb-4cb8-9153-32e9fc02d3a7,2025-02-06 01:02:38,81.36,Fowler-Morales,Food,Amyburgh,MasterCard,0
+bf70bdf3-c7fa-46f4-929e-e6b7acd7d96c,2025-01-31 14:45:27,79.35,"Campos, Sanders and Hoffman",Entertainment,New Christopherborough,MasterCard,1
+b593e69a-71b7-451f-8663-b1b999be7d7a,2025-02-09 12:46:48,611.43,Hicks Group,Tech,Haynesburgh,Visa,0
+95e3e413-4e7e-4d0f-ad5a-5238f15474f4,2025-03-01 01:17:14,265.39,"Miller, Schneider and Davis",Tech,South Joshua,Amex,0
+b2735ad5-a5ad-4cdd-91ad-fc38562e0fc1,2025-02-05 18:47:06,81.17,Espinoza PLC,Entertainment,Jamesport,Amex,0
+de531e8f-0156-434d-bac1-233c8b9cb9f4,2025-01-19 20:40:46,415.03,Harrison and Sons,Entertainment,East Patrick,Amex,0
+9800f4f3-7f2b-4289-947f-44fd5cac3bd1,2025-02-03 21:21:25,80.99,"Jones, Young and Burns",Entertainment,Hendersonstad,MasterCard,0
+f0182b9d-f1c7-49b7-899f-d3052b2524a6,2025-01-04 22:23:17,934.82,Hutchinson PLC,Health,South Vickieside,Amex,0
+c8d0b4f0-5c98-40cb-ae16-03df29145c53,2025-03-15 12:59:51,967.82,"Frank, White and Travis",Health,Youngtown,Amex,0
+fd7b050d-d971-44c9-81b9-d490c9cb5f86,2025-02-28 18:15:03,627.17,"Henderson, Lee and Morrison",Clothing,Murphyside,Amex,0
+566fbb1c-7257-4642-9ff0-31d6724741c3,2025-02-12 07:36:45,13.33,"Boyd, Koch and Campbell",Clothing,Josephshire,MasterCard,1
+08755b84-1d42-4998-b969-9c3d40082494,2025-03-23 13:03:14,146.78,Dunlap Inc,Travel,South Gilbert,Amex,0
+f8fd89e2-7561-4184-acc1-2300686c43b3,2025-03-13 07:49:25,515.86,Wilson PLC,Tech,Markview,Amex,0
+11a350ec-abf7-4aa5-a0e9-92141013a3fa,2025-01-27 09:05:03,754.4,Powell Ltd,Tech,Larryhaven,Amex,0
+e0b2e2a9-e7e9-4514-b316-c3ae539b1131,2025-01-19 04:11:03,437.51,"Waller, Williams and Rose",Clothing,New Karenmouth,Amex,0
+a1dd7572-79f3-404f-925d-0234b3609371,2025-03-25 11:16:50,531.32,"Hill, Stevens and Cunningham",Travel,New Pamton,Visa,0
+a1505ed4-5f7a-4e1b-a6e1-8dc197903d14,2025-01-12 02:42:09,345.46,Page Inc,Entertainment,Aprilberg,Amex,0
+97c95ab4-7eef-4b25-a36e-910d96369fa0,2025-03-28 07:25:35,869.5,Thomas Ltd,Clothing,Davisstad,MasterCard,0
+c9e506b0-dd3c-4fb7-9fdd-8d924d05a26c,2025-04-01 16:09:34,446.83,Smith LLC,Health,East Jermaineside,MasterCard,0
+5e1c65c2-c5e8-4456-9a75-8e5dc90442eb,2025-02-22 01:48:04,85.24,Fernandez Group,Entertainment,Nancyton,Visa,0
+99763aa5-2aed-43de-822e-7807843f2ff6,2025-02-11 15:31:29,328.79,Vasquez Inc,Food,Matthewton,MasterCard,0
+898a07b2-4938-4f83-9be1-8f138d991cc9,2025-01-14 23:46:05,882.93,Harvey PLC,Clothing,New Jeffrey,Visa,0
+1bcb5c8e-1847-4771-941f-f650c057c49f,2025-01-17 00:40:16,902.1,"Martin, Daugherty and Garcia",Travel,Lake Debrafurt,Amex,0
+f2482c46-9189-4ec2-8e93-6ec977ed4dff,2025-02-11 18:50:47,296.95,Branch Inc,Travel,Edwardsstad,Visa,0
+c195d921-048c-4060-839f-7e1b22a20a21,2025-03-22 04:17:10,265.2,Stevens Inc,Food,East Morgan,Amex,0
+5b2d820d-1e87-4c31-a129-5b93ea89ab0a,2025-02-14 16:05:24,330.32,Maldonado-Nolan,Food,North Daniel,MasterCard,0
+9cd4e125-2728-4d70-942b-e6dd3ccf963f,2025-03-23 18:48:40,20.51,"Rodriguez, Ruiz and York",Health,Lake Robert,MasterCard,0
+069f6cd7-1cf5-4757-8b9c-57b886c9a36e,2025-01-04 11:22:09,416.07,Sawyer Ltd,Clothing,West Cole,MasterCard,0
+8f5532ab-08af-41cd-a495-0b8aecea5daf,2025-03-10 20:17:27,254.72,Porter LLC,Travel,Theresaside,Amex,0
+485b6380-579c-4bb0-8780-355eee94c134,2025-02-27 22:18:41,278.03,Mitchell PLC,Health,North Heatherland,MasterCard,0
+5e29b7fa-9d37-4465-93ff-2668b32a98ec,2025-02-11 07:01:57,252.74,Adams-Robinson,Entertainment,South Angela,Amex,0
+47bf121b-3bcb-40b3-883d-e267e8207829,2025-04-04 11:33:21,833.53,Smith-Barnes,Clothing,Roachview,Amex,0
+8d503f80-84e3-48fa-949d-79ccb9650bd6,2025-02-28 05:45:55,117.12,Hull Inc,Tech,South Lori,Amex,0
+935cad69-a60d-400b-a5d3-13a26c58029c,2025-01-25 10:18:36,205.05,"Williamson, Jackson and Walker",Entertainment,Donaldfort,MasterCard,0
+7b659cd3-c941-44bf-8fbc-81a2a4efffa0,2025-03-28 10:02:20,287.59,Garcia-Gonzalez,Clothing,Greeneview,Amex,0
+adff6462-bdb2-4941-9d56-9fae1b69aaf3,2025-03-21 16:30:25,399.59,Thompson Inc,Entertainment,Nathanberg,Amex,0
+e1d32e23-4844-4f47-9a77-2d3db039642b,2025-03-08 18:41:03,62.7,Nelson-Robbins,Health,Jeffreyport,Amex,0
+101af7ee-b517-433b-99c5-ca21b3b39764,2025-01-03 04:01:46,986.15,Dawson Group,Clothing,Lake Natashaville,Visa,0
+4560525a-1920-4f27-b061-6bf0f3262824,2025-03-24 09:36:06,450.9,Paul PLC,Health,West Leah,MasterCard,0
+484ea5d1-9abc-4321-a68c-77debe938324,2025-01-05 08:53:48,587.24,Andrade-Reed,Tech,Kellyborough,Visa,0
+4412e4a8-2649-4803-9f34-fb4dce993c3c,2025-03-20 17:06:52,990.04,"Jones, Pratt and Bowers",Travel,Michaelborough,Amex,0
+ce2acf40-aa50-48e6-8f8f-aa7f760d9778,2025-03-23 11:14:09,534.59,Gates-Berry,Clothing,Mendozabury,Amex,0
+5e1dd818-4de9-4335-9bd8-bedfa81e70e2,2025-03-26 10:30:33,225.0,Burch PLC,Food,Antoniobury,Amex,0
+bd1f8912-0d69-410a-9184-acd57b6350de,2025-02-28 09:18:27,825.49,"Watkins, Scott and Howell",Health,Bishopburgh,Amex,0
+8feb070c-c40e-4d5e-b324-adf29c8526c0,2025-03-08 11:49:39,422.5,Figueroa and Sons,Food,North Katelynview,Visa,0
+efba305e-904a-4005-9d1f-10ab45fb0a32,2025-03-23 04:47:01,257.71,"Ross, Reid and Lopez",Clothing,Lake Richardton,MasterCard,0
+6c4678b6-a366-4080-9ad4-0d2fa3786524,2025-02-21 20:42:13,324.45,"Thompson, Perkins and Hinton",Tech,New Michael,MasterCard,0
+f1311fe9-8b0d-4aca-aeb3-53d49d7dbe29,2025-02-09 17:04:41,953.45,Nichols-Haney,Health,Port Staceyville,Amex,0
+fbd6498e-716c-4e61-8c1e-decb129a2469,2025-03-10 06:45:24,827.59,Maynard PLC,Clothing,East Heatherview,MasterCard,0
+4ab5b8aa-699d-4922-8295-ea2bb5f730f4,2025-02-18 10:44:51,477.5,Sanchez-Brady,Travel,Petersonville,MasterCard,0
+3d1e8d81-b570-4c1f-b615-3729eec7a482,2025-01-21 18:27:45,219.5,"James, Boone and Boyd",Clothing,Christopherburgh,MasterCard,1
+f90d8a05-8918-4a9b-9e2c-9989d76e4aa2,2025-03-10 10:13:32,498.03,"Yates, Warren and Turner",Health,North Sandraside,MasterCard,0
+5c4b2eae-5ec1-4634-b62b-c8b04ef7b2f3,2025-01-12 15:58:27,610.47,Brown-Morrison,Tech,New Timothy,Visa,0
+da15ec63-0b37-480f-a6c8-bb93a4394348,2025-02-23 21:12:54,843.01,Turner Ltd,Food,North Robertside,Visa,0
+d517840c-8114-4e34-bf65-fe2d92607f19,2025-01-21 21:50:37,369.22,Calderon LLC,Entertainment,South Adamchester,Amex,0
+e860fe83-eb77-4941-8ffa-eee51b7ab869,2025-02-22 04:02:53,476.77,"Herrera, Clark and Klein",Travel,Wisemouth,Amex,0
+d59f0df2-717f-47dc-a1a7-f2c165513513,2025-02-01 15:43:01,450.52,Smith-Erickson,Entertainment,Sandraville,Amex,0
+0f1ea716-d700-438b-a264-1a2841a60e83,2025-01-28 16:44:09,694.29,"Hall, Sanchez and Short",Clothing,Mcknightburgh,Visa,0
+dac6d71d-8ee5-42cd-b009-5068d53655a2,2025-01-25 01:54:39,450.62,Wilkerson Inc,Tech,Robertton,Amex,0
+d9b438cd-f9b5-46f6-a31a-7dcdab98d4bb,2025-03-11 10:34:46,830.74,"Stone, Graham and French",Health,West James,MasterCard,0
+72bc0863-7dbc-45a6-82a3-e1e99a92e4bc,2025-03-31 11:02:27,778.74,"Hall, Miller and Miller",Travel,Ballview,MasterCard,0
+09b5b27e-6ec0-4480-a95b-245660cbbd5a,2025-03-17 06:54:44,995.93,"Vazquez, Lee and Reed",Food,Johnsonberg,Visa,0
+da76633a-09e7-4e16-a6fb-7e6beee2c440,2025-03-26 07:51:04,202.95,"Lucas, Gonzales and Henson",Health,Lake Lesliemouth,Visa,0
+048012a2-c1e6-4e57-9abb-beb7e8205a1d,2025-01-21 17:01:16,434.09,"Gomez, Carroll and Higgins",Travel,Lake Joshua,Amex,0
+69876606-57a4-4f60-82da-1f9de615e2fd,2025-03-19 01:59:20,213.53,"Bauer, Ryan and Alexander",Entertainment,West Douglasbury,MasterCard,0
+3a25280f-7d30-4c17-958a-a021ad7cd320,2025-02-08 00:46:25,540.68,Hendrix LLC,Tech,North Ginachester,Visa,0
+8b1ef3cb-f047-46a6-a8fa-1b3876cbd555,2025-01-16 09:50:22,965.63,"Lewis, Porter and Rubio",Clothing,Carolineborough,Visa,0
+61a63607-4868-45c5-a6ef-d3a42d02c1f0,2025-02-23 07:24:27,934.31,"Henderson, Martin and Gonzalez",Health,East Donaldborough,MasterCard,0
+2ab787bf-910f-4e17-9841-41f770e524b6,2025-03-07 10:02:03,902.9,Nguyen-Black,Health,West Codyside,Amex,0
+90090dce-9b0b-4bb4-b3d1-dcf61f0800e8,2025-02-08 14:42:33,38.71,"Clark, Webster and Barnes",Travel,Port Heatherville,Amex,0
+bd975173-2431-4bd0-8081-b5cf50ac2675,2025-02-25 15:58:31,494.88,Clark-Gonzalez,Tech,South Devon,Visa,0
+662f1f50-fc83-4588-88f4-ae975cab1b4c,2025-01-16 16:49:30,151.81,"Peterson, Smith and Barrett",Food,Esparzatown,MasterCard,0
+6d3428e2-85b0-478b-becf-73df682dc811,2025-03-20 02:46:59,341.0,Neal PLC,Health,Wrightberg,Amex,0
+558fde80-e9af-42be-826a-9efd6a1608c0,2025-01-13 08:47:23,705.2,Fox Inc,Entertainment,Lake Albertburgh,Amex,0
+ad1627f8-0aa9-48cd-a5ed-d24084f7711a,2025-01-01 16:42:34,675.95,"Martinez, Wise and Hill",Health,Kaitlynstad,MasterCard,0
+6f2627ab-e260-412a-9a98-8f862516a664,2025-01-15 23:40:59,583.56,"White, Anderson and Ruiz",Food,Thomasstad,Amex,0
+b381f545-8c4d-4ec7-a6d9-8f3d6fb4dd9b,2025-02-17 06:49:29,245.63,Shelton-Gomez,Entertainment,West Jason,MasterCard,0
+29c17b5a-6a85-4e39-9ad7-7e2deaed1e59,2025-03-05 06:48:19,879.39,Long-Bryant,Travel,East Christophermouth,MasterCard,0
+293b0e1a-b61d-4e4a-99c3-b2b50f6c6acc,2025-03-02 12:48:04,793.9,"Owens, Williams and Price",Health,Pricechester,Visa,0
+427b1539-d972-4560-9ce9-f2adc93d203d,2025-02-20 07:44:52,168.04,"Vazquez, Short and Thompson",Travel,Port Richardport,MasterCard,1
+e0536cf8-7000-4f6c-ae09-4bf7d44c5854,2025-01-16 23:20:33,536.1,Turner Group,Tech,Port Amyview,Visa,0
+a93e3f4d-218b-45ec-a9f3-84a758b7da38,2025-03-15 23:20:34,670.5,"Sandoval, Zimmerman and Randolph",Entertainment,Port Randallland,Amex,0
+f4278624-b71f-4a72-9d99-55160ef104ef,2025-02-04 03:32:10,553.67,Ingram-Diaz,Travel,North Anneport,MasterCard,0
+7ce3d13b-7464-43e0-9629-31874eeb2e40,2025-01-25 01:48:21,713.88,"Patton, White and Monroe",Clothing,Ashleyborough,Amex,0
+5e9f6eca-e6e9-4433-a037-f894fdf36945,2025-01-29 07:44:59,287.8,"Reid, Baker and Stevens",Tech,East Craig,Visa,0
+5be30e32-695d-4eee-9ba6-29c63796d73f,2025-01-06 20:50:45,884.9,Hayes Group,Travel,Michaelville,Amex,0
+998c5e30-1abb-4da0-bf25-c8da474b4f3d,2025-01-30 21:35:21,836.12,"Sanchez, Powell and Gillespie",Health,Lake Timothy,Amex,0
+905f8b85-fcc1-41e3-8c2a-161a2fec85b4,2025-03-16 09:13:53,230.88,"Wilson, Burton and White",Tech,Lake Nataliestad,Visa,0
+c556a3f1-47a2-4b63-b1fa-f408de4cec4a,2025-01-27 23:41:40,122.3,Allen-Ballard,Entertainment,Russellmouth,Amex,0
+da3deabf-bbb9-465f-bf6f-ecbc927ddfaf,2025-01-28 04:28:30,953.64,Rosales Ltd,Entertainment,East Elizabeth,MasterCard,0
+0770efbd-d9d8-4354-bc5c-f57516ed7141,2025-02-03 04:59:00,672.85,Thompson-Hicks,Travel,West Garyland,Amex,0
+fbb83ea7-96fe-4d48-9e52-f27591ee2fca,2025-02-28 20:38:51,578.06,Ellis-White,Entertainment,Port Lisa,Visa,0
+3c11ec05-7512-478c-8060-b190e8d3dca5,2025-03-11 01:00:59,426.85,"Miller, Luna and Ward",Food,West Monica,MasterCard,0
+63029abe-1225-49ad-8e4c-c9acb6aee5d5,2025-02-16 15:37:23,68.89,Ramos Ltd,Tech,Christophermouth,MasterCard,0
+87d5ba02-d0ff-49f7-b1c4-8d6487a4def7,2025-03-28 04:38:30,158.25,"Hart, Valentine and Cooke",Travel,Montoyaburgh,Amex,0
+5ec63ccf-a6d8-4345-bcf5-bc0171a03a43,2025-01-15 04:55:48,252.45,"Green, Johnston and Myers",Tech,North Jennifer,Amex,1
+399ca709-ed03-454c-af4d-9640c23b09f2,2025-03-28 17:49:26,782.19,Freeman and Sons,Travel,East Sarah,MasterCard,1
+a33eea4e-cfa4-4468-89ae-adee63df4bf5,2025-03-14 16:47:39,77.65,"Young, Smith and Griffin",Food,West Colin,Amex,0
+76c715eb-9e17-41bf-be19-dc1b3cb3d38f,2025-02-24 17:44:46,564.83,"Vasquez, Bolton and Johnston",Food,Lake Cynthia,Visa,0
+02cda8c3-a5e6-4aca-9760-8b4eb7d001de,2025-02-16 03:38:59,465.93,"Moore, Myers and Sweeney",Tech,Port Jessicastad,MasterCard,0
+81582f9a-2d2c-49c3-8fda-6d0859b67a71,2025-01-30 03:30:23,373.27,"Pham, Phillips and Velasquez",Tech,Nicholasland,Amex,0
+97044440-b4dd-4cfa-bc69-fbab36a72fc8,2025-01-23 14:37:10,502.79,"Mcmahon, Kelly and Rogers",Health,West Andrewview,MasterCard,0
+f984e110-ea41-4802-a66a-f11e63e1b0ab,2025-02-07 00:22:01,865.05,Williams-Howard,Food,Lake Benjamin,Amex,0
+8f411d32-fd8d-432d-833f-a4f4f400bab0,2025-01-02 23:57:25,781.74,"Thomas, Savage and Andrade",Travel,West Scott,MasterCard,0
+74a51c51-5f89-48dc-8074-79a3a7f5d075,2025-03-01 00:27:41,679.84,Jackson-Patrick,Health,North Martinbury,MasterCard,0
+30b68f66-badd-4e43-a6b2-400472552fb7,2025-03-21 02:41:29,920.6,Ross-Gardner,Entertainment,New Jill,Amex,0
+98ae0c2f-f12a-4f60-ab4c-62ef46eb820a,2025-01-29 20:49:11,170.33,"Barker, Smith and Le",Travel,Gilltown,MasterCard,1
+77efb31a-14bf-412b-8455-03325a011081,2025-01-05 08:02:17,319.58,Sampson PLC,Health,Rebeccahaven,Amex,0
+070439de-e87d-4ea8-aab9-b2cf7b91f22e,2025-03-16 10:16:02,605.22,Adkins-Sandoval,Entertainment,Lake Caitlin,MasterCard,0
+8a5d02be-875c-43de-a38a-f84401669b88,2025-04-02 12:36:11,407.01,Morales-Andrade,Clothing,Smithbury,Visa,0
+569e9cdf-8241-4889-959f-5bb41d3a11ca,2025-03-19 22:29:50,769.24,Thomas Group,Health,Lake Gregorymouth,MasterCard,1
+b989a4fe-56d1-4a00-8c58-ceda19eb7425,2025-02-16 08:36:31,544.92,Webb-Brock,Entertainment,New Ronaldmouth,MasterCard,0
+0eadc438-0d46-452c-ba23-94b06209361e,2025-01-06 11:45:15,304.79,"Lane, Vargas and Greene",Clothing,Christinetown,MasterCard,0
+0b7a5519-38dd-4909-9859-63e9ecc09925,2025-02-16 00:57:01,316.86,"Obrien, Stewart and Burgess",Food,Meghanmouth,Visa,0
+6aaee53f-fe8a-43c8-bb6b-b6eac603d86f,2025-01-01 13:18:01,755.19,Cunningham LLC,Food,New Ricky,MasterCard,0
+107fcc4f-2cca-4f67-b84d-14978b3f2648,2025-01-01 20:02:12,171.97,Wagner Group,Entertainment,Chandlerborough,Visa,0
+ffb62157-1384-4ed4-9e0c-68ae99a76d6f,2025-02-20 09:36:46,526.43,Vang Inc,Clothing,West Angela,Visa,0
+78cfe5e8-035f-4210-9584-137301bf2471,2025-03-10 23:19:23,719.71,Klein and Sons,Entertainment,South Sarahmouth,Amex,0
+696464c5-d37a-404b-bd5d-c77074e6de7b,2025-03-27 21:31:03,832.19,Conner-Russo,Travel,North Kaitlyn,Visa,0
+43302487-cf93-4eb4-8010-ddf49a486f7f,2025-03-02 11:21:54,995.97,Graves and Sons,Clothing,Brownland,MasterCard,0
+ee56ba42-cee0-497c-a63e-6504ca758b39,2025-03-19 19:28:22,144.43,"Davis, Gordon and Henry",Clothing,Samanthafort,Visa,0
+32095ec4-7f2b-470c-b7a5-2074a65f5609,2025-01-04 11:25:07,60.85,"Hall, Benson and Jackson",Clothing,South Kylestad,MasterCard,0
+fc1c755e-a3ae-437d-8d21-6ed033b7ee6f,2025-01-29 21:06:17,648.64,Wilson LLC,Entertainment,Lake Madisonchester,Visa,0
+3a81369a-3a97-4e98-bc12-3502a9e057d9,2025-01-30 14:04:06,225.02,Bryant Inc,Food,East Robinport,MasterCard,0
+b9d69991-c0c6-4f95-8eca-e0f946de23b0,2025-04-05 22:02:47,468.86,Tran LLC,Food,Bethland,Visa,0
+8e4d47a7-4b9d-462d-9562-6a400c20754d,2025-02-02 10:08:23,22.92,Sampson LLC,Entertainment,Lake Charles,MasterCard,0
+274021c4-5b1d-4ec3-b92f-d1961138da82,2025-03-30 16:21:12,115.3,"Bernard, Johnson and Yu",Entertainment,West Heidichester,Amex,0
+7c29f788-124a-45e7-936e-47f449247343,2025-01-17 02:40:35,718.64,Cooper-King,Tech,North Christineville,MasterCard,0
+3ebc3d98-29f7-4523-8052-19d9c91ab6f6,2025-03-17 15:52:25,839.34,Campbell-Stephens,Entertainment,North Brittany,MasterCard,0
+7e1960a4-78f9-4ae9-a8b6-ef8ad424d455,2025-02-15 12:05:44,418.72,Castillo Ltd,Tech,Duarteton,MasterCard,0
+29ab8358-b7b9-4802-9079-ff377fffcf33,2025-01-23 01:02:35,19.98,Richards and Sons,Tech,Josebury,Visa,0
+6cc56e2f-47ef-4236-981f-afa82e9e0677,2025-01-05 11:50:31,610.98,Taylor Inc,Entertainment,West Rachel,MasterCard,0
+22fba9bf-6080-4a14-98fe-54231ebdac16,2025-01-09 08:05:50,75.12,Grant LLC,Clothing,New Susanton,MasterCard,0
+0f955f03-34a6-4ca9-995d-246749d1d991,2025-04-01 09:39:43,43.02,Martin-Vasquez,Entertainment,New Kenneth,Visa,0
+df11242a-83a5-46ba-b270-cdb25d1817a8,2025-03-11 06:15:00,760.46,Lloyd Ltd,Entertainment,West Jacob,Visa,0
+8a2a6fe1-1a99-4941-91fa-44845efb600c,2025-01-12 09:24:26,108.99,White Ltd,Food,Lake Tammyfort,MasterCard,0
